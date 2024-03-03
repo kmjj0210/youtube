@@ -1,5 +1,4 @@
 import React from 'react';
-import { Outlet } from 'react-router-dom';
 import { CiSearch } from "react-icons/ci";
 
 export default function Videos() {
@@ -16,7 +15,6 @@ export default function Videos() {
           </button>
         </form>
       </header>
-      <Outlet />
     </div>
   );
 }
