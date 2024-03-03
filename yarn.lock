@@ -12507,7 +12507,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tailwindcss@npm:^3.0.2":
+"tailwindcss@npm:^3.0.2, tailwindcss@npm:^3.4.1":
   version: 3.4.1
   resolution: "tailwindcss@npm:3.4.1"
   dependencies:
@@ -13872,6 +13872,7 @@ __metadata:
     react-router-dom: "npm:6"
     react-scripts: "npm:5.0.1"
     styled-components: "npm:^6.1.8"
+    tailwindcss: "npm:^3.4.1"
     web-vitals: "npm:^2.1.0"
   languageName: unknown
   linkType: soft
