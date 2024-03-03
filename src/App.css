@@ -1,0 +1,90 @@
+/* reset */
+* {
+    box-sizing: border-box;
+}
+fieldset,
+p,
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+div,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul,
+ol {
+    list-style: none;
+}
+input,
+select,
+button,
+textarea {
+    padding: 0;
+    vertical-align: middle;
+    box-sizing: border-box;
+    -o-appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    outline: none;
+    font-family: "Noto Sans KR", sans-serif;
+}
+label,
+button,
+input[type=submit] {
+    cursor: pointer;
+    display: inline-block;
+}
+button {
+    background-color: transparent;
+    transition: all 0.2s ease;
+}
+a {
+    text-decoration: none;
+}
+a,
+input,
+button,
+textarea {
+    border: 0 none;
+    border-radius: 0;
+    font-size: 1rem;
+    color: #222;
+}
+a:active,
+button:active,
+input:focus {
+    outline: none;
+}
+
+header {
+  padding: 10px;
+}
+header form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 800px;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  overflow: hidden;
+}
+header input {
+  padding: 10px 20px;
+  width: calc(100% - 80px);
+}
+header button {
+  padding: 10px 0;
+  width: 80px;
+  font-size: 1.375rem;
+  border-left : 1px solid #ddd;
+  background: #eee;
+}

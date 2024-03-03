@@ -1,14 +1,19 @@
 import './App.css';
-import { Routes, Route , Link} from 'react-router-dom';
+import { Routes, Route, BrowserRouter,Outlet } from 'react-router-dom';
+import styled from 'styled-components';
+import Videos from './components/Videos';
+import VideosDetail from './components/VideosDetail';
 
-function App() {
+export default function App() {
   return (
     <>
-      <iframe id="ytplayer" type="text/html" width="720" height="405"
-src="https://www.youtube.com/embed/M7lc1UVf-VE"
-frameborder="0" allowfullscreen></iframe>
+      <Routes>
+        <Route path='/videos' element={<Videos />}>
+          <Route path='query' element={<div>검색조회</div>} />
+          <Route path='watch/:id' element={<VideosDetail />} />
+        </Route>
+        <Route path="*" element={<Videos />} />
+      </Routes>
     </>
   );
 }
-
-export default App;
