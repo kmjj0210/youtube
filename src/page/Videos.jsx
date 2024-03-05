@@ -1,9 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react';
+import { useParams } from 'react-router-dom';
 
 export default function Videos() {
+  const { keyword } = useParams();
   return (
-    <div>
-      
+    <div className='mt-5'>
+      Videos🔥{keyword ? `🔎${keyword}` : null}
     </div>
   );
 }

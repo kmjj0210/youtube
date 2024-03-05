@@ -15,9 +15,9 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage />,
     children: [
       { index: true, element: <Videos /> },
-      { path: 'videos', element: <Videos /> },
-      { path: 'videos/:keyword', element: <Videos /> },
-      { path: 'videos/watch/:videoId', element: <VideosDetail /> }
+      { path: '/videos', element: <Videos /> },
+      { path: '/videos/:keyword', element: <Videos /> },
+      { path: '/videos/watch/:videoId', element: <VideosDetail /> }
     ]
   }
 ]);
