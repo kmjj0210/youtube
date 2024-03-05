@@ -1,1591 +1,856 @@
 {
-    "kind": "youtube#videoListResponse",
-    "etag": "K1emljbJ0A_iS2NlFrKzcFs-LyM",
+    "kind": "youtube#searchListResponse",
+    "etag": "hfFMrK5Tw2_8Y8IFgy77yenR6fQ",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
     "items": [
         {
-            "kind": "youtube#video",
-            "etag": "aR9lvlFJhoAkAiELqyUIQC6J6mY",
-            "id": "tWYsfOSY9vY",
+            "kind": "youtube#searchResult",
+            "etag": "Ivkn6RaIuZjvY7OoZi28L6Jm4sM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dTeFqIo7_XQ"
+            },
             "snippet": {
-                "publishedAt": "2024-03-02T17:00:00Z",
-                "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-                "title": "I Survived 7 Days In An Abandoned City",
-                "description": "This was one of the hardest challenges we’ve ever done\nA deal so good it feels like stealing  🤫 - score a FREE double insulated bottle with any 10 cartridge BeastBundle https://drinkcirkul.com/MrBeast or head to your local Walmart today to try Cirkul.\n\nGo subscribe to Mark’s Channel!  @MarkRober   \n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------",
+                "publishedAt": "2024-03-04T19:00:13Z",
+                "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+                "title": "I CAN’T BELIEVE KELLY SLATER ACTUALLY SHOWED UP!",
+                "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com/ - JAMIE O'BRIEN SURF SCHOOL - TURTLE BAY - NORTH SHORE ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/tWYsfOSY9vY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/dTeFqIo7_XQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/tWYsfOSY9vY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dTeFqIo7_XQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/tWYsfOSY9vY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dTeFqIo7_XQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/tWYsfOSY9vY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/tWYsfOSY9vY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "MrBeast",
-                "categoryId": "24",
+                "channelTitle": "Jamie O'Brien",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "I Survived 7 Days In An Abandoned City",
-                    "description": "This was one of the hardest challenges we’ve ever done\nA deal so good it feels like stealing  🤫 - score a FREE double insulated bottle with any 10 cartridge BeastBundle https://drinkcirkul.com/MrBeast or head to your local Walmart today to try Cirkul.\n\nGo subscribe to Mark’s Channel!  @MarkRober   \n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-03-04T19:00:13Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "T50Y4Y8zwWspD6G9SIFXmxsMCA0",
-            "id": "SLxOOV73gw4",
+            "kind": "youtube#searchResult",
+            "etag": "51uPnDZTuYuv3im3Ne-0TuhHixY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cCGz3KZa_DI"
+            },
             "snippet": {
-                "publishedAt": "2024-03-04T18:53:11Z",
-                "channelId": "UCaogx6OHpsGg0zuGRKsjbtQ",
-                "title": "Thank You - Jason Kelce Officially Retires",
-                "description": "After 13 season as the Philadelphia Eagles' starting center, Jason Kelce is officially retiring from the NFL. One of the greatest of all time, Kelce finishes his career as a seven-time Pro Bowler, six-time First-Team All-Pro, and most importantly, a Super Bowl Champion, helping bring the City of Brotherly Love its first Super Bowl victory during the historic 2017 season.\n\nJason Kelce has shown the football world what it means to be an Eagle throughout the entirety of his years in Midnight Green. Congratulations on an incredible run, Jason. Thank you!\n\n#Football #NFL #Eagles \n\n✅ YouTube: bit.ly/3V0kusX\n✅ Twitter: bit.ly/3i0Ou9b\n✅ Instagram: bit.ly/3AFPUfW\n✅ TikTok: bit.ly/3OD9IXa\n✅ Facebook: bit.ly/3V1CAuB\n✅ Eagles App: bit.ly/3gHh1jM",
+                "publishedAt": "2024-03-04T21:18:28Z",
+                "channelId": "UC6uX6GF5q2JxLjMkyivM2Og",
+                "title": "CANT GET IN CANT GET OUT, STUCK IN THE NOTORIOUS BACKDOOR REVERSE CURRENT!",
+                "description": "YOUTUBE VIDS CONTINUE WEEKLY AS ALWAYS MY FRIENDS PLEASE SUBSCRIBE to help SUPPORT the channel!",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/SLxOOV73gw4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cCGz3KZa_DI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/SLxOOV73gw4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cCGz3KZa_DI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/SLxOOV73gw4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cCGz3KZa_DI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/SLxOOV73gw4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/SLxOOV73gw4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Philadelphia Eagles",
-                "tags": [
-                    "eagles",
-                    "eagles football",
-                    "football",
-                    "jason kelce",
-                    "jason kelce highlights",
-                    "jason kelce speech",
-                    "jason kelce eagles",
-                    "jason kelce retirement",
-                    "philadelphia eagles",
-                    "kelce",
-                    "kelce documentary",
-                    "jason kelce tribute",
-                    "kelce retires",
-                    "jason kelce podcast",
-                    "philadelphia eagles jason kelce",
-                    "nfl",
-                    "jason kelce nfl",
-                    "nfc",
-                    "nfc east",
-                    "eagles highlights",
-                    "eagles kelce",
-                    "travis kelce",
-                    "ed kelce",
-                    "donna kelce",
-                    "kylie kelce",
-                    "jason and kylie kelce",
-                    "kelce family documentary",
-                    "kelce family",
-                    "thank you jason kelce"
-                ],
-                "categoryId": "17",
+                "channelTitle": "Nathan Florence",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Thank You - Jason Kelce Officially Retires",
-                    "description": "After 13 season as the Philadelphia Eagles' starting center, Jason Kelce is officially retiring from the NFL. One of the greatest of all time, Kelce finishes his career as a seven-time Pro Bowler, six-time First-Team All-Pro, and most importantly, a Super Bowl Champion, helping bring the City of Brotherly Love its first Super Bowl victory during the historic 2017 season.\n\nJason Kelce has shown the football world what it means to be an Eagle throughout the entirety of his years in Midnight Green. Congratulations on an incredible run, Jason. Thank you!\n\n#Football #NFL #Eagles \n\n✅ YouTube: bit.ly/3V0kusX\n✅ Twitter: bit.ly/3i0Ou9b\n✅ Instagram: bit.ly/3AFPUfW\n✅ TikTok: bit.ly/3OD9IXa\n✅ Facebook: bit.ly/3V1CAuB\n✅ Eagles App: bit.ly/3gHh1jM"
-                }
+                "publishTime": "2024-03-04T21:18:28Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "t2pa71YgWLbs-Se5NrmnxpUf0c0",
-            "id": "mscDaDd1ipk",
+            "kind": "youtube#searchResult",
+            "etag": "xnAA5YHIQ7s9xxYL3Flcfe83FWU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IMv7X1muLAw"
+            },
             "snippet": {
-                "publishedAt": "2024-03-03T19:05:00Z",
-                "channelId": "UC3sznuotAs2ohg_U__Jzj_Q",
-                "title": "Film Theory: Bill Cipher is Still ALIVE… and I Found Him! (Gravity Falls)",
-                "description": "*Thanks to Rocket Money for sponsoring this video!*\nCancel those unwanted subscriptions. Check out Rocket Money for free today ► https://rocketmoney.com/filmtheorists\n\nHey, loyal Theorist, for MatPat’s penultimate Film Theory, we’re diving back into the world of Gravity Falls! But before that, we have to issue a big ⚠️ Ẃ̷̝̼̼̙͙͇͉A̸̛͇̝̝̿̐͐́́̆̓R̴̼̖̞̹͎͘ͅṊ̷̺̫̟͈̤̬̔̔̔͂͝͠Ì̸̛͕̫N̷̨̏̋̉͐͆G̵͈̝̰̉͠! Bill Cipher is everywhere. Not just in the land of Gravity Falls, but in our world too. And if we’re not careful, he may just keep rewriting history and affecting the life of real life Gravity Falls creator, Alex Hirsch.\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*🔽 Don’t Miss Out!*\nGet Your TheoryWear! ► https://tinyurl.com/ft-grav-tw\nDive into the Reddit! ► https://tinyurl.com/ft-grav-rt\n\nNeed Royalty Free Music for your Content? Try Epidemic Sound.\nGet Your 30 Day Free Trial Now ► https://tinyurl.com/ft-grav-es\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*👀 Watch MORE Theories:*\nGravity Falls ISN’T Over! ►► https://tinyurl.com/ft-grav-w1\nRick & Morty / Gravity Falls Crossover ►► https://tinyurl.com/ft-grav-w2\nThe Old Rick is DEAD ►► https://tinyurl.com/ft-grav-w3\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Join Our Other YouTube Channels!*\n​🕹️ https://tinyurl.com/ft-grav-sub2gt\n🍔 https://tinyurl.com/ft-grav-sub2dt\n👔 https://tinyurl.com/ft-grav-sub2st\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Credits:*\nWriters: Matthew Patrick, Forrest Lee, and Brett Turley\nEditors: Alex \"Sedge\" Sedgwick, Danial \"BanditRants\" Keristoufi, Marc Schneider, and AbsolutePixel\nSound Designer: Yosi Berman\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n#GravityFalls #BillCipher #AlexHirsch #Disney #DipperPines #Mabel #GravityFallsEdit #GravityFallsCosplay #Cartoon #Cartoons #ARG #Theory #FilmTheory #Matpat",
+                "publishedAt": "2024-02-26T21:37:52Z",
+                "channelId": "UC6uX6GF5q2JxLjMkyivM2Og",
+                "title": "NATHAN FLORENCE BEST RIDES 2022/2023 SURFING HIGHLIGHTS",
+                "description": "YOUTUBE VIDS CONTINUE WEEKLY AS ALWAYS MY FRIENDS PLEASE SUBSCRIBE to help SUPPORT the channel!",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/mscDaDd1ipk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/IMv7X1muLAw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/mscDaDd1ipk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IMv7X1muLAw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/mscDaDd1ipk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IMv7X1muLAw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/mscDaDd1ipk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/mscDaDd1ipk/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "The Film Theorists",
-                "tags": [
-                    "Gravity falls",
-                    "disney",
-                    "bill cipher",
-                    "gravity falls bill cipher",
-                    "bill cipher defeat",
-                    "journal 3",
-                    "gravity falls song",
-                    "gravity falls theme",
-                    "gravity falls episode",
-                    "gravity falls theme song",
-                    "gravity falls full episode",
-                    "gravity falls reaction",
-                    "gravity falls episodes",
-                    "gravity falls season 3",
-                    "gravity falls arg",
-                    "alex hirsch",
-                    "we’ll meet again",
-                    "mabel",
-                    "mabel gravity falls",
-                    "dipper",
-                    "dipper pines",
-                    "Bill cipher vs",
-                    "rick and morty",
-                    "gravity falls theory",
-                    "film theory",
-                    "film theorists",
-                    "matpat"
-                ],
-                "categoryId": "1",
+                "channelTitle": "Nathan Florence",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Film Theory: Bill Cipher is Still ALIVE… and I Found Him! (Gravity Falls)",
-                    "description": "*Thanks to Rocket Money for sponsoring this video!*\nCancel those unwanted subscriptions. Check out Rocket Money for free today ► https://rocketmoney.com/filmtheorists\n\nHey, loyal Theorist, for MatPat’s penultimate Film Theory, we’re diving back into the world of Gravity Falls! But before that, we have to issue a big ⚠️ Ẃ̷̝̼̼̙͙͇͉A̸̛͇̝̝̿̐͐́́̆̓R̴̼̖̞̹͎͘ͅṊ̷̺̫̟͈̤̬̔̔̔͂͝͠Ì̸̛͕̫N̷̨̏̋̉͐͆G̵͈̝̰̉͠! Bill Cipher is everywhere. Not just in the land of Gravity Falls, but in our world too. And if we’re not careful, he may just keep rewriting history and affecting the life of real life Gravity Falls creator, Alex Hirsch.\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*🔽 Don’t Miss Out!*\nGet Your TheoryWear! ► https://tinyurl.com/ft-grav-tw\nDive into the Reddit! ► https://tinyurl.com/ft-grav-rt\n\nNeed Royalty Free Music for your Content? Try Epidemic Sound.\nGet Your 30 Day Free Trial Now ► https://tinyurl.com/ft-grav-es\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*👀 Watch MORE Theories:*\nGravity Falls ISN’T Over! ►► https://tinyurl.com/ft-grav-w1\nRick & Morty / Gravity Falls Crossover ►► https://tinyurl.com/ft-grav-w2\nThe Old Rick is DEAD ►► https://tinyurl.com/ft-grav-w3\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Join Our Other YouTube Channels!*\n​🕹️ https://tinyurl.com/ft-grav-sub2gt\n🍔 https://tinyurl.com/ft-grav-sub2dt\n👔 https://tinyurl.com/ft-grav-sub2st\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Credits:*\nWriters: Matthew Patrick, Forrest Lee, and Brett Turley\nEditors: Alex \"Sedge\" Sedgwick, Danial \"BanditRants\" Keristoufi, Marc Schneider, and AbsolutePixel\nSound Designer: Yosi Berman\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n#GravityFalls #BillCipher #AlexHirsch #Disney #DipperPines #Mabel #GravityFallsEdit #GravityFallsCosplay #Cartoon #Cartoons #ARG #Theory #FilmTheory #Matpat"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-02-26T21:37:52Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "4_lPVlDTeuWUzZ45PybQWpGpsXY",
-            "id": "aN7WCsC9nkI",
+            "kind": "youtube#searchResult",
+            "etag": "GActWoa3sb24z5BjE9IvCCvZGNY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ayKeU_0GEmY"
+            },
             "snippet": {
-                "publishedAt": "2024-03-03T21:00:01Z",
-                "channelId": "UCzIyoPv6j1MAZpDHKLGP_eA",
-                "title": "Morgan Wallen - Lies Lies Lies (Abbey Road Sessions)",
-                "description": "Stay connected for exclusive updates:\n▸Mailing List: https://bit.ly/2FRP7LK\n▸Website: https://morganwallen.com/\n\n▸ Shop Merch: https://morganwallen.lnk.to/shop\n\nFollow Morgan:\n▸Instagram: https://instagram.com/morganwallen/\n▸Twitter: https://twitter.com/morganwallen/\n▸TikTok: https://www.tiktok.com/@morganwallen\n▸Facebook: https://facebook.com/morgancwallen\n\nLyrics: \nI don’t come down with the sun\nI won’t hate myself when the morning comes\nNo thoughts of your body running through my head\nNo bottle of bourbon beside the bed\n\n‘Cause it wasn’t no thing to give you up\nI never reach for you in another touch\nDon’t ever think about you with him\nAnd girl tonight I won’t call again and again\nAin’t nothin’ but\n\nLies, lies, lies\nLook into my eyes, eyes, eyes\nI’m still a fool for you\nNothing I wouldn’t do for you\nLies, lies, lies\nGirl I’m on a downhill dive\nHabits and hard heartbreaks are hard to break\nSo I just tell the same old lies, lies, lies\nYeah, baby I can try, try, try\n\nTo act like I don’t give a damn but I do\nBet you’re missing me bad as I miss you\nSnowballs to a phone call\nSounding something stupid\nBaby ‘cause the truth is\nThe ninety proof is tellin’ me\n\nLies, lies, lies\nLook into my eyes, eyes, eyes\nI’m still a fool for you\nNothing I wouldn’t do for you\nLies, lies, lies\nGirl I’m on a downhill dive\nHabits and hard heartbreaks are hard to break\nSo I just tell the same old \n\nLies, lies, lying to myself\nWhy, why, why in the hell\nDo I keep sayin’ I can get you back\nThat’s about as honest as sayin’ that\nI don’t come down with the sun\nI won’t hate myself when the morning comes\nAin’t nothing but\n\nLies, lies, lies\nLook into my eyes, eyes, eyes\nI’m still a fool for you\nNothing I wouldn’t do for you\nLies, lies, lies\nGirl I’m on a downhill dive\nHabits and hard heartbreaks are hard to break\nSo I just tell the same old lies, lies, lies\nLies, lies, lies\n\n#MorganWallen #LiesLiesLies #AbbeyRoadSessions",
+                "publishedAt": "2024-03-03T20:55:15Z",
+                "channelId": "UCf5CA0OsvhhU-6AcSjT1oKQ",
+                "title": "Lowers is FIRING and there&#39;s BARRELS !!! - Kalani, Shea, Pelly Slater",
+                "description": "Lowers is firing or should we say cooking in February!! Rare winter time swell provides perfect peaks at the most notorious ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/aN7WCsC9nkI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ayKeU_0GEmY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/aN7WCsC9nkI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ayKeU_0GEmY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/aN7WCsC9nkI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ayKeU_0GEmY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/aN7WCsC9nkI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/aN7WCsC9nkI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Morgan Wallen",
-                "tags": [
-                    "Morgan Wallen",
-                    "Abbey Road Sessions",
-                    "Lies Lies Lies"
-                ],
-                "categoryId": "10",
+                "channelTitle": "BEEFS T.V.",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Morgan Wallen - Lies Lies Lies (Abbey Road Sessions)",
-                    "description": "Stay connected for exclusive updates:\n▸Mailing List: https://bit.ly/2FRP7LK\n▸Website: https://morganwallen.com/\n\n▸ Shop Merch: https://morganwallen.lnk.to/shop\n\nFollow Morgan:\n▸Instagram: https://instagram.com/morganwallen/\n▸Twitter: https://twitter.com/morganwallen/\n▸TikTok: https://www.tiktok.com/@morganwallen\n▸Facebook: https://facebook.com/morgancwallen\n\nLyrics: \nI don’t come down with the sun\nI won’t hate myself when the morning comes\nNo thoughts of your body running through my head\nNo bottle of bourbon beside the bed\n\n‘Cause it wasn’t no thing to give you up\nI never reach for you in another touch\nDon’t ever think about you with him\nAnd girl tonight I won’t call again and again\nAin’t nothin’ but\n\nLies, lies, lies\nLook into my eyes, eyes, eyes\nI’m still a fool for you\nNothing I wouldn’t do for you\nLies, lies, lies\nGirl I’m on a downhill dive\nHabits and hard heartbreaks are hard to break\nSo I just tell the same old lies, lies, lies\nYeah, baby I can try, try, try\n\nTo act like I don’t give a damn but I do\nBet you’re missing me bad as I miss you\nSnowballs to a phone call\nSounding something stupid\nBaby ‘cause the truth is\nThe ninety proof is tellin’ me\n\nLies, lies, lies\nLook into my eyes, eyes, eyes\nI’m still a fool for you\nNothing I wouldn’t do for you\nLies, lies, lies\nGirl I’m on a downhill dive\nHabits and hard heartbreaks are hard to break\nSo I just tell the same old \n\nLies, lies, lying to myself\nWhy, why, why in the hell\nDo I keep sayin’ I can get you back\nThat’s about as honest as sayin’ that\nI don’t come down with the sun\nI won’t hate myself when the morning comes\nAin’t nothing but\n\nLies, lies, lies\nLook into my eyes, eyes, eyes\nI’m still a fool for you\nNothing I wouldn’t do for you\nLies, lies, lies\nGirl I’m on a downhill dive\nHabits and hard heartbreaks are hard to break\nSo I just tell the same old lies, lies, lies\nLies, lies, lies\n\n#MorganWallen #LiesLiesLies #AbbeyRoadSessions"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-03-03T20:55:15Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "V7onZtG1r-eXGt6ZoS9PjQFGdzg",
-            "id": "t4C2YFp1BBg",
+            "kind": "youtube#searchResult",
+            "etag": "oP9NPUJupvphdU4RnpdJPI69VCA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lEsJ7A_lLU8"
+            },
             "snippet": {
-                "publishedAt": "2024-03-04T08:16:37Z",
-                "channelId": "UCFN4JkGP_bVhAdBsoV9xftA",
-                "title": "EXCLUSIVE! After AEW Revolution went off the air, Sting shared some final words",
-                "description": "#sting #aewrevolution \n\nExclusive: Full Sting Post Match Speech | 3/3/24 AEW Revolution\n\nThe golden era of wrestling games is back! AEW: Fight Forever is available now on your favorite console and PC! Buy it now! - https://aew.thqnordic.com/\n\nSUBSCRIBE now and never miss a new video:\n@aew @aewshorts @aewgames @aewmusic @aewpodcasts  \n\n• AEW Dynamite airs every Wednesday night 8e/7c on TBS\n• AEW Rampage airs every Friday night 10e/9c on TNT\n• AEW Collision airs every Saturday at 8e/7c on TNT\n\nHow to watch Dynamite, Rampage, special events and Pay Per View \n➡️  TBS - https://www.tbs.com/allelitewrestling\n➡️  TNT - https://www.TNTdrama.com/aew\n➡️  Bleacher Report - https://www.BleacherReport.com\n➡️  FITE TV - https://www.fite.tv/channel/aew (For international fans only)\n\nFollow #AllEliteWrestling on all social media platforms\n➡️  https://www.Twitter.com/aew\n➡️  https://www.instagram.com/aew\n➡️  https://www.Facebook.com/aew\n➡️  https://www.Twitter.com/AEWonTV\n➡️  https://www.instagram.com/AEWonTV\n➡️  TikTok - AllEliteWrestling\n➡️  Snapchat - AEW\n\nWelcome to the All Elite Wrestling YouTube channel! Here you can find the latest highlights from AEW Dynamite, AEW Rampage and AEW Collision. A world-class roster of diverse male and female wrestlers give you a new wrestling experience. Subscribe today so you don't miss the latest videos from All Elite Wrestling!\n\nThis video is AEW intellectual property. It is intended for only the private use of our audience.  No part of this show may be reproduced, broadcast or exhibited in any form or by any means without the consent of AEW.  It is also prohibited for users to generate revenue from the broadcast or exhibition by the user of any AEW content (including media scrums or other editorial materials) without the consent of AEW.",
+                "publishedAt": "2024-02-07T19:40:33Z",
+                "channelId": "UC0GbKJaeEN9k5CG1NLbN6Ow",
+                "title": "This Is Why You Don’t Surf After It Rains 🤢 #gross",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/t4C2YFp1BBg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/lEsJ7A_lLU8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/t4C2YFp1BBg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lEsJ7A_lLU8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/t4C2YFp1BBg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lEsJ7A_lLU8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/t4C2YFp1BBg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/t4C2YFp1BBg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "All Elite Wrestling",
-                "tags": [
-                    "aew",
-                    "aew dynamite",
-                    "aew dynamite highlights this week",
-                    "aew dynamite highlights",
-                    "aew on tnt",
-                    "aew road to",
-                    "all elite wrestling",
-                    "aew highlights",
-                    "STING AEW",
-                    "sting aew revolution",
-                    "sting aew last match",
-                    "sting aew promo",
-                    "sting aew revolution 2024",
-                    "sting aew match",
-                    "sting aew tribute",
-                    "sting aew highlights",
-                    "stings last match aew",
-                    "aew revolution",
-                    "young bucks",
-                    "sting retirement",
-                    "aew revolution 2024",
-                    "sting darby allin vs young bucks",
-                    "darby allin"
-                ],
-                "categoryId": "17",
+                "channelTitle": "IdkSterling",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en-US",
-                "localized": {
-                    "title": "EXCLUSIVE! After AEW Revolution went off the air, Sting shared some final words",
-                    "description": "#sting #aewrevolution \n\nExclusive: Full Sting Post Match Speech | 3/3/24 AEW Revolution\n\nThe golden era of wrestling games is back! AEW: Fight Forever is available now on your favorite console and PC! Buy it now! - https://aew.thqnordic.com/\n\nSUBSCRIBE now and never miss a new video:\n@aew @aewshorts @aewgames @aewmusic @aewpodcasts  \n\n• AEW Dynamite airs every Wednesday night 8e/7c on TBS\n• AEW Rampage airs every Friday night 10e/9c on TNT\n• AEW Collision airs every Saturday at 8e/7c on TNT\n\nHow to watch Dynamite, Rampage, special events and Pay Per View \n➡️  TBS - https://www.tbs.com/allelitewrestling\n➡️  TNT - https://www.TNTdrama.com/aew\n➡️  Bleacher Report - https://www.BleacherReport.com\n➡️  FITE TV - https://www.fite.tv/channel/aew (For international fans only)\n\nFollow #AllEliteWrestling on all social media platforms\n➡️  https://www.Twitter.com/aew\n➡️  https://www.instagram.com/aew\n➡️  https://www.Facebook.com/aew\n➡️  https://www.Twitter.com/AEWonTV\n➡️  https://www.instagram.com/AEWonTV\n➡️  TikTok - AllEliteWrestling\n➡️  Snapchat - AEW\n\nWelcome to the All Elite Wrestling YouTube channel! Here you can find the latest highlights from AEW Dynamite, AEW Rampage and AEW Collision. A world-class roster of diverse male and female wrestlers give you a new wrestling experience. Subscribe today so you don't miss the latest videos from All Elite Wrestling!\n\nThis video is AEW intellectual property. It is intended for only the private use of our audience.  No part of this show may be reproduced, broadcast or exhibited in any form or by any means without the consent of AEW.  It is also prohibited for users to generate revenue from the broadcast or exhibition by the user of any AEW content (including media scrums or other editorial materials) without the consent of AEW."
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-02-07T19:40:33Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "U9nzgpwkd1INLV7zFyI5Rk2QOms",
-            "id": "9z83t3gB9vE",
+            "kind": "youtube#searchResult",
+            "etag": "pSIDbIBhD-0ArgWWL3D0oXm671w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eSWST13stO4"
+            },
             "snippet": {
-                "publishedAt": "2024-03-04T15:40:01Z",
-                "channelId": "UCR-uD130PlXKww_J2Q63CMg",
-                "title": "Family Star Teaser - Vijay Deverakonda | Mrunal Thakur | Parasuram | Dil Raju | Gopisundar",
-                "description": "Presenting #FamilyStar ft Vijay Deverakonda, Mrunal Thakur. Directed by Parasuram. Sankrathi 2024 Release. \n\nCast : Vijay Deverakonda, Mrunal Thakur \nDirector & Writer - Parasuram\nDOP : KU Mohanan \nMusic : Gopisundar\nArt Director: AS Prakash\nEditor : Marthand K Venkatesh \nCreative Producer : Vasu Varma\nProducers : Raju - Shirish\nDi- B2h\nColourist- raghu\nVFX - Srikanth Kandala (Stunner Fx)\nRecording Engineer : Bhavani Rakesh @sreeabheristudios,Hyd\n\n——————————\n\nFull Telugu Movies - https://goo.gl/buaJpf\n\nFollow us on: \nTwitter: https://twitter.com/SVC_official\nFacebook: https://www.facebook.com/DilRajuOfficial\nFacebook: https://www.facebook.com/SriVenkateswaraCreations\nYouTube: http://goo.gl/dwcKmr\nInstagram: https://www.instagram.com/srivenkateswaracreations\nTelegram: https://t.me/SVC_Official",
+                "publishedAt": "2022-03-27T15:00:32Z",
+                "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+                "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
+                "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/9z83t3gB9vE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/9z83t3gB9vE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/9z83t3gB9vE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/9z83t3gB9vE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "Dil Raju",
-                "tags": [
-                    "Family star",
-                    "family star glimpse",
-                    "family star teaser",
-                    "family star trailer",
-                    "family star theatrical trailer",
-                    "family star songs",
-                    "family song promos",
-                    "vijay deverakonda family star",
-                    "vijay deverakonda latest movie trailer",
-                    "vijay deverakonda 2024 movie",
-                    "mrunal thakur in family star",
-                    "gopisundar",
-                    "dil raju movies",
-                    "parasuram movies"
-                ],
-                "categoryId": "24",
+                "channelTitle": "Waves of the World",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Family Star Teaser - Vijay Deverakonda | Mrunal Thakur | Parasuram | Dil Raju | Gopisundar",
-                    "description": "Presenting #FamilyStar ft Vijay Deverakonda, Mrunal Thakur. Directed by Parasuram. Sankrathi 2024 Release. \n\nCast : Vijay Deverakonda, Mrunal Thakur \nDirector & Writer - Parasuram\nDOP : KU Mohanan \nMusic : Gopisundar\nArt Director: AS Prakash\nEditor : Marthand K Venkatesh \nCreative Producer : Vasu Varma\nProducers : Raju - Shirish\nDi- B2h\nColourist- raghu\nVFX - Srikanth Kandala (Stunner Fx)\nRecording Engineer : Bhavani Rakesh @sreeabheristudios,Hyd\n\n——————————\n\nFull Telugu Movies - https://goo.gl/buaJpf\n\nFollow us on: \nTwitter: https://twitter.com/SVC_official\nFacebook: https://www.facebook.com/DilRajuOfficial\nFacebook: https://www.facebook.com/SriVenkateswaraCreations\nYouTube: http://goo.gl/dwcKmr\nInstagram: https://www.instagram.com/srivenkateswaracreations\nTelegram: https://t.me/SVC_Official"
-                },
-                "defaultAudioLanguage": "te"
+                "publishTime": "2022-03-27T15:00:32Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "DuljuBKiGGYufgXpbY2ZdaAihTc",
-            "id": "u2TWLXLCnhs",
+            "kind": "youtube#searchResult",
+            "etag": "ikbj4YBybim3QxNYQB78VEqAsPI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "638vncB_UKU"
+            },
             "snippet": {
-                "publishedAt": "2024-03-04T15:00:48Z",
-                "channelId": "UCE_--R1P5-kfBzHTca0dsnw",
-                "title": "Shaq And Allen Iverson Go Sneaker Shopping With Complex",
-                "description": "Shaquille O'Neal and Allen Iverson go Sneaker Shopping at Corporate in Indianapolis with Complex's Joe La Puma and talk about Reebok basketball , Shaq’s recruitment of Devin Booker, and Jordan trying to sign Allen Iverson. \n\nSubscribe to Complex on YouTube: https://www.youtube.com/c/Complex\n\nCheck out more of Complex here:\nhttp://www.complex.com\nhttps://twitter.com/Complex\nhttps://www.facebook.com/complex\nhttp://instagram.com/complex\n\nCOMPLEX is a community of creators and curators, armed with the Internet, committed to surfacing and sharing the voices and conversations that define our new America. Our videos exemplify convergence culture, exploring topics that include music, sneakers, style, sports, and pop culture through original shows and Complex News segments. Featuring your favorite celebrities, authoritative commentary, and a unique voice, our videos make culture pop.",
+                "publishedAt": "2024-03-04T20:00:04Z",
+                "channelId": "UCEL_DcAbuwV1Pgux_eSm3HQ",
+                "title": "Currents // An Album Surf Short Film",
+                "description": "Album surf presents, “Currents” featuring Victor Bernardo. A Short Film By Matt Kleiner FPV Footage By Nicolas Gaillard Music By ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/u2TWLXLCnhs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/638vncB_UKU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/u2TWLXLCnhs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/638vncB_UKU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/u2TWLXLCnhs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/638vncB_UKU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/u2TWLXLCnhs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/u2TWLXLCnhs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Complex",
-                "tags": [
-                    "Shaq",
-                    "Allen Iverson",
-                    "Sneaker Shopping",
-                    "shaquille o'neal",
-                    "nba",
-                    "inside the nba",
-                    "jlp",
-                    "joe la puma",
-                    "sneaker shopping",
-                    "complex",
-                    "sneaker shopping with complex",
-                    "nike",
-                    "sneakerhead",
-                    "complex originals",
-                    "sneakers",
-                    "culture",
-                    "complex media",
-                    "complex networks",
-                    "goat talk",
-                    "hype news",
-                    "pop culture",
-                    "reebok",
-                    "Sneaker Collection",
-                    "sneaker collection 2024",
-                    "best shoes 2024"
-                ],
-                "categoryId": "24",
+                "channelTitle": "Album Surf",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Shaq And Allen Iverson Go Sneaker Shopping With Complex",
-                    "description": "Shaquille O'Neal and Allen Iverson go Sneaker Shopping at Corporate in Indianapolis with Complex's Joe La Puma and talk about Reebok basketball , Shaq’s recruitment of Devin Booker, and Jordan trying to sign Allen Iverson. \n\nSubscribe to Complex on YouTube: https://www.youtube.com/c/Complex\n\nCheck out more of Complex here:\nhttp://www.complex.com\nhttps://twitter.com/Complex\nhttps://www.facebook.com/complex\nhttp://instagram.com/complex\n\nCOMPLEX is a community of creators and curators, armed with the Internet, committed to surfacing and sharing the voices and conversations that define our new America. Our videos exemplify convergence culture, exploring topics that include music, sneakers, style, sports, and pop culture through original shows and Complex News segments. Featuring your favorite celebrities, authoritative commentary, and a unique voice, our videos make culture pop."
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-03-04T20:00:04Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "AL-BgOCrigwc368K1O9Xc6rqisE",
-            "id": "2pMc8NOd2Xw",
+            "kind": "youtube#searchResult",
+            "etag": "CEqGUw_JtqjewM7kANSF0xsG6yE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-U6CM8IYaNc"
+            },
             "snippet": {
-                "publishedAt": "2024-03-03T17:51:17Z",
-                "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
-                "title": "Manchester City v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 3/3/2024 | NBC Sports",
-                "description": "Relive Manchester City's comeback victory against Manchester United where Phil Foden stole the show with a brace to secure three crucial points for City at the Etihad in Matchweek 27. #NBCSports #PremierLeague #ManchesterCity #ManchesterUnited\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1 \n» Watch the Premier League live on Peacock: https://peacocktv.smart.link/v82e9dl56\n» Get Premier League news on NBC Sports: https://nbcsports.com/soccer/premier-league\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, Big Ten, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more.\n\nSubscribe to our channel for the latest sporting news and highlights!\n\nThe Premier League across NBC Sports Group launched in 2013 with their biggest and broadest programming commitment to-date in the United States. With live multi-platform coverage of all 380 games, analysis from best-in-class talent and extensive surrounding coverage all week long, NBC Sports Group has become the ultimate destination for new and existing Premier League fans.\n\nThe Premier League maintains strong and consistent reach across NBC, USA Network, CNBC, and NBC Sports Group’s live streaming products, led by the biggest stars and most prestigious teams in the world.\n\nVisit NBC Sports: https://www.nbcsports.com \nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports \nFollow NBC Sports on Twitter: https://twitter.com/nbcsports \nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/ \n\nhttps://www.nbcsports.com/nfl/sunday-night-football \nhttps://nbcsports.com/motors/nascar \nhttps://nbcsports.com/soccer/premier-league \n\nManchester City v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 3/3/2024 | NBC Sports\nhttps://www.youtube.com/nbcsports",
+                "publishedAt": "2024-02-24T18:00:00Z",
+                "channelId": "UC-zD0q7ryv_OWPB_xEwJJIQ",
+                "title": "This part scares the crap out of me ￼!",
+                "description": "I don't think I can properly convey the complete and total amount of fear that tries to overtake me every time I start to paddle out ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/2pMc8NOd2Xw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/-U6CM8IYaNc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/2pMc8NOd2Xw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-U6CM8IYaNc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/2pMc8NOd2Xw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-U6CM8IYaNc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/2pMc8NOd2Xw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/2pMc8NOd2Xw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "NBC Sports",
-                "tags": [
-                    "nbc sports",
-                    "premier",
-                    "league",
-                    "premier league",
-                    "premier league highlights",
-                    "english premier league",
-                    "epl",
-                    "premier league goals",
-                    "premier league soccer",
-                    "english premier league live",
-                    "2023/24 premier league season",
-                    "premier league 23/2024",
-                    "premier league live",
-                    "english premier league today",
-                    "man united man city",
-                    "man united",
-                    "man city",
-                    "man city goals",
-                    "epl goals",
-                    "english premier league goals",
-                    "phil foden",
-                    "man city vs man united",
-                    "manchester city vs manchester united highlights",
-                    "erling haaland"
-                ],
-                "categoryId": "17",
+                "channelTitle": "Blind Surfer Pete Gustin",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Manchester City v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 3/3/2024 | NBC Sports",
-                    "description": "Relive Manchester City's comeback victory against Manchester United where Phil Foden stole the show with a brace to secure three crucial points for City at the Etihad in Matchweek 27. #NBCSports #PremierLeague #ManchesterCity #ManchesterUnited\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1 \n» Watch the Premier League live on Peacock: https://peacocktv.smart.link/v82e9dl56\n» Get Premier League news on NBC Sports: https://nbcsports.com/soccer/premier-league\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, Big Ten, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more.\n\nSubscribe to our channel for the latest sporting news and highlights!\n\nThe Premier League across NBC Sports Group launched in 2013 with their biggest and broadest programming commitment to-date in the United States. With live multi-platform coverage of all 380 games, analysis from best-in-class talent and extensive surrounding coverage all week long, NBC Sports Group has become the ultimate destination for new and existing Premier League fans.\n\nThe Premier League maintains strong and consistent reach across NBC, USA Network, CNBC, and NBC Sports Group’s live streaming products, led by the biggest stars and most prestigious teams in the world.\n\nVisit NBC Sports: https://www.nbcsports.com \nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports \nFollow NBC Sports on Twitter: https://twitter.com/nbcsports \nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/ \n\nhttps://www.nbcsports.com/nfl/sunday-night-football \nhttps://nbcsports.com/motors/nascar \nhttps://nbcsports.com/soccer/premier-league \n\nManchester City v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 3/3/2024 | NBC Sports\nhttps://www.youtube.com/nbcsports"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-02-24T18:00:00Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "W1qnuSdNj0DDYJbsvUZv_6ZImZk",
-            "id": "Qe_1qo6teZs",
+            "kind": "youtube#searchResult",
+            "etag": "bZ2fe9vRJLC1qLYvfKq0gh-Jkac",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "55knAhRAIAc"
+            },
             "snippet": {
-                "publishedAt": "2024-03-04T05:08:35Z",
-                "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-                "title": "NASA's SpaceX Crew-8 Launch (Official NASA Broadcast)",
-                "description": "Watch live with us as a crew of four launch on NASA's SpaceX Crew-8 mission to the International Space Station. Liftoff is targeted at 10:53 p.m. EST (0353 UTC), Sunday, March 3.\n\nThe launch attempt March 2 was postponed due to unfavorable conditions in the flight path of the SpaceX Falcon 9 rocket and Dragon spacecraft.\n \nThe crew will lift off in their SpaceX Dragon spacecraft, powered by a Falcon 9 rocket, from Launch Complex 39A at NASA's Kennedy Space Center in Florida. Members include:\n• NASA astronaut Matthew Dominick, commander\n• NASA astronaut Michael Barratt, pilot\n• NASA astronaut Jeanette Epps, mission specialist\n• Roscosmos cosmonaut Aleksandr Grebenkin, mission specialist\n \nVisit our Crew-8 blog for the latest mission news: https://blogs.nasa.gov/crew-8 \n \nOver 200 science experiments and technology demonstrations will take place during Crew-8's mission of approximately six months in space. Experiments will include using stem cells to create organoid models to study degenerative diseases, studying the effects of microgravity and UV radiation on plants at a cellular level, and testing whether wearing pressure cuffs on the legs could prevent fluid shifts and reduce health problems in astronauts. Learn more about the mission and science at: https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-8-mission/\n \nThumbnail credit: SpaceX\n\nCredit: NASA\n \n#NASA #Crew8",
+                "publishedAt": "2024-03-02T20:07:58Z",
+                "channelId": "UCSoF7GdKjYzPeBX_Ppe3uAw",
+                "title": "Tandem excellence at Buffalo&#39;s Big Board Surfing Classic",
+                "description": "We take you over to Makaha for Buffalo's Big Board Surfing Classic. @kalanilg1 & @kauaisurfergirl bring in style, grace , and ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Qe_1qo6teZs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/55knAhRAIAc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Qe_1qo6teZs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/55knAhRAIAc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Qe_1qo6teZs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/55knAhRAIAc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Qe_1qo6teZs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Qe_1qo6teZs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "NASA",
-                "categoryId": "28",
+                "channelTitle": "freesurfmag",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "NASA's SpaceX Crew-8 Launch (Official NASA Broadcast)",
-                    "description": "Watch live with us as a crew of four launch on NASA's SpaceX Crew-8 mission to the International Space Station. Liftoff is targeted at 10:53 p.m. EST (0353 UTC), Sunday, March 3.\n\nThe launch attempt March 2 was postponed due to unfavorable conditions in the flight path of the SpaceX Falcon 9 rocket and Dragon spacecraft.\n \nThe crew will lift off in their SpaceX Dragon spacecraft, powered by a Falcon 9 rocket, from Launch Complex 39A at NASA's Kennedy Space Center in Florida. Members include:\n• NASA astronaut Matthew Dominick, commander\n• NASA astronaut Michael Barratt, pilot\n• NASA astronaut Jeanette Epps, mission specialist\n• Roscosmos cosmonaut Aleksandr Grebenkin, mission specialist\n \nVisit our Crew-8 blog for the latest mission news: https://blogs.nasa.gov/crew-8 \n \nOver 200 science experiments and technology demonstrations will take place during Crew-8's mission of approximately six months in space. Experiments will include using stem cells to create organoid models to study degenerative diseases, studying the effects of microgravity and UV radiation on plants at a cellular level, and testing whether wearing pressure cuffs on the legs could prevent fluid shifts and reduce health problems in astronauts. Learn more about the mission and science at: https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-8-mission/\n \nThumbnail credit: SpaceX\n\nCredit: NASA\n \n#NASA #Crew8"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-03-02T20:07:58Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "kMXmEQvhbiwrvRwZwvfHlepnMMs",
-            "id": "5UBl0rLEl0w",
+            "kind": "youtube#searchResult",
+            "etag": "7XSBeiEjlDLYcgGDpahjC_URSlI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aYbgOD6zC6Q"
+            },
             "snippet": {
-                "publishedAt": "2024-03-04T13:24:00Z",
-                "channelId": "UCIrgJInjLS2BhlHOMDW7v0g",
-                "title": "Taylor Swift | The Eras Tour (Taylor’s Version) | Official Trailer | Disney+",
-                "description": "Are You Ready For It?\n \nTaylor Swift | The Eras Tour (Taylor’s Version), in its entirety for the first time with the song “cardigan” and four additional acoustic songs, arrives March 14 at 6PM PT only on Disney+.\n\nFor more updates, subscribe to Disney, Pixar, Marvel, Star Wars, and National Geographic.\n \nDisney+ is the streaming home of Disney, Pixar, Marvel, Star Wars, National Geographic, and more. From new releases to your favorite classics and exclusive Originals, there's something for everyone.  \n \nFollow Disney+ for the latest:\nDisney+: https://disneyplus.com/\nTikTok: https://www.tiktok.com/@DisneyPlus\nInstagram: https://www.instagram.com/DisneyPlus/\nTwitter: https://www.twitter.com/DisneyPlus/\nFacebook: https://www.facebook.com/DisneyPlus/",
+                "publishedAt": "2024-03-04T14:13:32Z",
+                "channelId": "UCrL4HtiKWddH-9jkMXgudEA",
+                "title": "2024 ISA World Surfing Games: Finals Highlights",
+                "description": "Thousands of spectators lined the waterfront of Arecibo to watch Gabriel Medina and Sally Fitzgibbons claim victory in the 2024 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/5UBl0rLEl0w/default.jpg",
+                        "url": "https://i.ytimg.com/vi/aYbgOD6zC6Q/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/5UBl0rLEl0w/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aYbgOD6zC6Q/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/5UBl0rLEl0w/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aYbgOD6zC6Q/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/5UBl0rLEl0w/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/5UBl0rLEl0w/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Disney Plus",
-                "tags": [
-                    "Disney+",
-                    "Disney Plus",
-                    "Disney",
-                    "streaming"
-                ],
-                "categoryId": "22",
+                "channelTitle": "SurferToday",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Taylor Swift | The Eras Tour (Taylor’s Version) | Official Trailer | Disney+",
-                    "description": "Are You Ready For It?\n \nTaylor Swift | The Eras Tour (Taylor’s Version), in its entirety for the first time with the song “cardigan” and four additional acoustic songs, arrives March 14 at 6PM PT only on Disney+.\n\nFor more updates, subscribe to Disney, Pixar, Marvel, Star Wars, and National Geographic.\n \nDisney+ is the streaming home of Disney, Pixar, Marvel, Star Wars, National Geographic, and more. From new releases to your favorite classics and exclusive Originals, there's something for everyone.  \n \nFollow Disney+ for the latest:\nDisney+: https://disneyplus.com/\nTikTok: https://www.tiktok.com/@DisneyPlus\nInstagram: https://www.instagram.com/DisneyPlus/\nTwitter: https://www.twitter.com/DisneyPlus/\nFacebook: https://www.facebook.com/DisneyPlus/"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-03-04T14:13:32Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "sOJi8-HrkyaSxUE_acUQTe4DYuQ",
-            "id": "S3XjsSvwSuU",
+            "kind": "youtube#searchResult",
+            "etag": "laKlsbjSigvNrC318sAoL2hS1oQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ma67yOdMQfs"
+            },
             "snippet": {
-                "publishedAt": "2024-03-04T14:00:17Z",
-                "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-                "title": "THE GARFIELD MOVIE - New Trailer (HD)",
-                "description": "Indoor cat 🐾 Outdoor adventure. Watch the New Trailer for The #GarfieldMovie. Coming exclusively to movie theaters Memorial Day Weekend.\n\nVisit our site: https://www.TheGarfield-Movie.com\n\nFollow Us on Social: \nhttps://www.facebook.com/GarfieldMovie\nhttps://www.instagram.com/GarfieldMovie\nhttps://www.twitter.com/GarfieldMovie\nhttps://www.tiktok.com/@SonyPictures\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: http://bit.ly/SonyPicsSubscribe \n\nGarfield (voiced by Chris Pratt), the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic (voiced by Samuel L. Jackson) – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.\n \nDirected by:                                                \nMark Dindal\n \nScreenplay by: Paul A. Kaplan & Mark Torgove and David Reynolds\n \nBased on the Garfield® characters created by: Jim Davis\n \nProducers:                                                     \nJohn Cohen\nBroderick Johnson\nAndrew A. Kosove\nSteven P. Wegner\nCraig Sost\nNamit Malhotra\nCrosby Clyse\n \nExecutive Producers:                                      \nJim Davis\nBridget McMeel\nDavid Reynolds\nScott Parish\nCarl Rogers\nSimon Hedges\nChris Pflug\nLouis Koo\nSteve Sarowitz\nJustin Baldwin\nPeter Luo\n \nCast:                                                          \nChris Pratt\nSamuel L. Jackson\nHannah Waddingham\nVing Rhames\nNicholas Hoult\nCecily Strong\nHarvey Guillén\nBrett Goldstein\nBowen Yang\n\n#Garfield #GarfieldMovie #ChrisPratt #SamuelLJackson #MarkDindal\n#OfficialTrailer #SonyPictures #Sony #Movie",
+                "publishedAt": "2021-01-23T17:00:15Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
+                "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/S3XjsSvwSuU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/S3XjsSvwSuU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/S3XjsSvwSuU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/S3XjsSvwSuU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/S3XjsSvwSuU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Sony Pictures Entertainment",
-                "categoryId": "24",
+                "channelTitle": "Red Bull Surfing",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "THE GARFIELD MOVIE - New Trailer (HD)",
-                    "description": "Indoor cat 🐾 Outdoor adventure. Watch the New Trailer for The #GarfieldMovie. Coming exclusively to movie theaters Memorial Day Weekend.\n\nVisit our site: https://www.TheGarfield-Movie.com\n\nFollow Us on Social: \nhttps://www.facebook.com/GarfieldMovie\nhttps://www.instagram.com/GarfieldMovie\nhttps://www.twitter.com/GarfieldMovie\nhttps://www.tiktok.com/@SonyPictures\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: http://bit.ly/SonyPicsSubscribe \n\nGarfield (voiced by Chris Pratt), the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic (voiced by Samuel L. Jackson) – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.\n \nDirected by:                                                \nMark Dindal\n \nScreenplay by: Paul A. Kaplan & Mark Torgove and David Reynolds\n \nBased on the Garfield® characters created by: Jim Davis\n \nProducers:                                                     \nJohn Cohen\nBroderick Johnson\nAndrew A. Kosove\nSteven P. Wegner\nCraig Sost\nNamit Malhotra\nCrosby Clyse\n \nExecutive Producers:                                      \nJim Davis\nBridget McMeel\nDavid Reynolds\nScott Parish\nCarl Rogers\nSimon Hedges\nChris Pflug\nLouis Koo\nSteve Sarowitz\nJustin Baldwin\nPeter Luo\n \nCast:                                                          \nChris Pratt\nSamuel L. Jackson\nHannah Waddingham\nVing Rhames\nNicholas Hoult\nCecily Strong\nHarvey Guillén\nBrett Goldstein\nBowen Yang\n\n#Garfield #GarfieldMovie #ChrisPratt #SamuelLJackson #MarkDindal\n#OfficialTrailer #SonyPictures #Sony #Movie"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2021-01-23T17:00:15Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "odlxAIbFieA38nM1ShMyfINrvvI",
-            "id": "5hWXwftGwYs",
+            "kind": "youtube#searchResult",
+            "etag": "CVyFoN0owdETwtjzUiuRfXJu7Kw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hhN9HjnkND4"
+            },
             "snippet": {
-                "publishedAt": "2024-03-04T12:55:26Z",
-                "channelId": "UCt9nYeSz90lnOnaVFjxFJzw",
-                "title": "NickEh30 reacts to Earthquake Live Event in Fortnite!",
-                "description": "Fortnite Chapter 5 Season 2 Earthquake Live Event revealing the Titan Hand and Pandora's Box!\n0:00 100 Player Wedding Roleplay\n0:28 Earthquakes w/ Sypher, Courage, and Punisher\n1:26 Timelapse of Earthquakes\n2:07 Earthquake from the Battle Bus\n2:20 Live Event: Titan Hand\n2:56 100 Players vs Pandora's Box\n4:54 Chains Breaking on Pandora's Box\n5:31 Live Event: Pandora's Box Opening\n6:34 Crushed by Pandora's Box Falling\n7:24 Thunder and Tornadoes from Spawn Island\n7:47 100 Player Simon Says (Chapter 5 Season 1)\n23:45 Code NickEh30\n23:51 My new Fortnite Map: Klombo Wars (Zero Build) ➔ 5087-4245-0507\n23:59 Outro\n\n🪙 Support-A-Creator code: NickEh30 (Epic Partner)\n\n━━━━━━━━━━━━━\n\n🎮 YOUTUBE SHORTS ➔ @NickEh30Shorts\n\n🎮 TWITCH ➔ https://www.Twitch.tv/NickEh30\n\n📷 INSTAGRAM ➔ https://Instagram.com/NickEh30\n\n🐦 TWITTER ➔ https://Twitter.com/NickEh30\n\n🎭 FACEBOOK ➔ https://Facebook.com/NickEh30\n\n📽️ TIKTOK ➔ https://www.tiktok.com/@nickeh30\n\n📱 DISCORD ➔ https://www.Discord.gg/NickEh30\n\n🖼️ SNAPCHAT ➔ https://www.Snapchat.com/add/NickEh30\n\n━━━━━━━━━━━━━\n\n🎮 My Official Fortnite Maps ➔ https://www.fortnite.com/@nickeh30\n\n⌨️ My official NickEh30 keyboard, mouse, and deskpad ➔ https://ghostkeyboards.com/NickEh30 \n\n👕 My Official Nick Eh 30 Merch ➔ https://NickEh30.Shop\n\n━━━━━━━━━━━━━\n\n📺 More 100 player Fortnite matches (Full Playlist) ➔ https://youtube.com/playlist?list=PLcVnblva-BZQaYaK1MJMFv6YsWgCwi65f\n\n📺 More Fortnite Update Reactions (Full Playlist) ➔ https://www.youtube.com/playlist?list=PLcVnblva-BZSuIfUmaS53VZPXgsUtztEj\n\n📺 More Fortnite Events (Full Playlist) ➔https://youtube.com/playlist?list=PLcVnblva-BZTsJDpaPY6lcKuLw9c46OTN\n\n━━━━━━━━━━━━━\n\n📮 Send Nick Eh 30 mail:\n\nNick Eh 30\nPO Box 31047 Gladstone\nHalifax, Nova Scotia\nB3K 5T9\n\n• All mail/packages should be sent using Canada Post (not UPS, FedEx, etc.), please and thank you. 🙂\n\n━━━━━━━━━━━━━\n\n#Fortnite #CodeNickEh30",
+                "publishedAt": "2024-03-04T22:00:17Z",
+                "channelId": "UC0uzP4XsyVMGr7NwBUYv4mA",
+                "title": "day in the life surfing in FIJI 🌊",
+                "description": "A day in the life staying at my favorite place in the world, @namotuisland intro music: Good Feeling by Adam Emerson Where I get ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/5hWXwftGwYs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/hhN9HjnkND4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/5hWXwftGwYs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/hhN9HjnkND4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/5hWXwftGwYs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/hhN9HjnkND4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/5hWXwftGwYs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/5hWXwftGwYs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Nick Eh 30",
-                "tags": [
-                    "fortnite",
-                    "fortnite gameplay",
-                    "fortnite battle royale",
-                    "fortnite funny moments",
-                    "fortnite new update",
-                    "fortnite victory royale",
-                    "Fortnite Item Shop",
-                    "Fortnite funny",
-                    "Fortnite tips",
-                    "Fortnite Update",
-                    "Fortnite How To Win",
-                    "Fortnite how to play",
-                    "Fortnite Victory Royale",
-                    "Fortnite tournament",
-                    "fortnite best moments",
-                    "Fortnite event",
-                    "Nick eh 30",
-                    "FORTNITE new map",
-                    "Fortnite live",
-                    "Fortnite nick eh 30",
-                    "fortnite new season",
-                    "Fortnite Chapter 5",
-                    "Fortnite Chapter 5 Season 2",
-                    "Fortnite season 2"
-                ],
-                "categoryId": "20",
+                "channelTitle": "Eryn Krouse",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "NickEh30 reacts to Earthquake Live Event in Fortnite!",
-                    "description": "Fortnite Chapter 5 Season 2 Earthquake Live Event revealing the Titan Hand and Pandora's Box!\n0:00 100 Player Wedding Roleplay\n0:28 Earthquakes w/ Sypher, Courage, and Punisher\n1:26 Timelapse of Earthquakes\n2:07 Earthquake from the Battle Bus\n2:20 Live Event: Titan Hand\n2:56 100 Players vs Pandora's Box\n4:54 Chains Breaking on Pandora's Box\n5:31 Live Event: Pandora's Box Opening\n6:34 Crushed by Pandora's Box Falling\n7:24 Thunder and Tornadoes from Spawn Island\n7:47 100 Player Simon Says (Chapter 5 Season 1)\n23:45 Code NickEh30\n23:51 My new Fortnite Map: Klombo Wars (Zero Build) ➔ 5087-4245-0507\n23:59 Outro\n\n🪙 Support-A-Creator code: NickEh30 (Epic Partner)\n\n━━━━━━━━━━━━━\n\n🎮 YOUTUBE SHORTS ➔ @NickEh30Shorts\n\n🎮 TWITCH ➔ https://www.Twitch.tv/NickEh30\n\n📷 INSTAGRAM ➔ https://Instagram.com/NickEh30\n\n🐦 TWITTER ➔ https://Twitter.com/NickEh30\n\n🎭 FACEBOOK ➔ https://Facebook.com/NickEh30\n\n📽️ TIKTOK ➔ https://www.tiktok.com/@nickeh30\n\n📱 DISCORD ➔ https://www.Discord.gg/NickEh30\n\n🖼️ SNAPCHAT ➔ https://www.Snapchat.com/add/NickEh30\n\n━━━━━━━━━━━━━\n\n🎮 My Official Fortnite Maps ➔ https://www.fortnite.com/@nickeh30\n\n⌨️ My official NickEh30 keyboard, mouse, and deskpad ➔ https://ghostkeyboards.com/NickEh30 \n\n👕 My Official Nick Eh 30 Merch ➔ https://NickEh30.Shop\n\n━━━━━━━━━━━━━\n\n📺 More 100 player Fortnite matches (Full Playlist) ➔ https://youtube.com/playlist?list=PLcVnblva-BZQaYaK1MJMFv6YsWgCwi65f\n\n📺 More Fortnite Update Reactions (Full Playlist) ➔ https://www.youtube.com/playlist?list=PLcVnblva-BZSuIfUmaS53VZPXgsUtztEj\n\n📺 More Fortnite Events (Full Playlist) ➔https://youtube.com/playlist?list=PLcVnblva-BZTsJDpaPY6lcKuLw9c46OTN\n\n━━━━━━━━━━━━━\n\n📮 Send Nick Eh 30 mail:\n\nNick Eh 30\nPO Box 31047 Gladstone\nHalifax, Nova Scotia\nB3K 5T9\n\n• All mail/packages should be sent using Canada Post (not UPS, FedEx, etc.), please and thank you. 🙂\n\n━━━━━━━━━━━━━\n\n#Fortnite #CodeNickEh30"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-03-04T22:00:17Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "quUbIgJ3W55gPU1sUhf_DGaVadA",
-            "id": "KBWTHZ2TL5I",
+            "kind": "youtube#searchResult",
+            "etag": "mha77j54-hzeNl45dLbq6LEqUvk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QB8GMebrFXg"
+            },
             "snippet": {
-                "publishedAt": "2024-03-02T20:45:05Z",
-                "channelId": "UCJGgP4txIUr_7JTDvOGVQrA",
-                "title": "I Watched Every Barbie Movie Ever Made",
-                "description": "Let our Sponsor BetterHelp connect you to a therapist who can support you - all from the comfort of your own home. Visit https://BetterHelp.com/TedNivison and enjoy a special discount on your first month.\n\nIn this video I embarked on the greatest challenge yet: Watching every Barbie movie ever made and constructed a theory that discovers the true lore of Barbie, all while maintaining my sanity. Enjoy!\n\nFOLLOW ME\n► https://www.instagram.com/tednivison\n► https://twitter.com/TedNivison\n\n► OTHER STUFF: https://linktr.ee/tednivison\n\nAssistant Editor: https://www.instagram.com/ReallyZade\n\nHave an idea you want covered? Submit here: https://forms.gle/wzbXDHqEZZJHwz958\n\nCustom Music by Oval:  @OvalMusic  \nOutro: Pls Proceed by Baron Grand\nRoyalty Free Music by \nhttp://www.epidemicsound.com/\n\nFMC (Frequently Made Comments): \n\n\"Ted doesn't know about modern monarchies like the U.K.\"\n\nI'm aware of the fact that there are monarchies in the world today. What I was trying to figure out was if Mirabella was an \"absolute monarchy,\" as in the monarch is the sole legislative power in the nation. In the case of something like the United Kingdom, that is a constitutional monarchy where the monarch has very little, to almost zero power in the actual workings of the government. There are 7 countries in the world today with absolute monarchies, and one of them funnily enough is The Vatican. \n\n\"I cannot believe that he rated _____ so low\" \n\nI would not take my actual numbered ratings too seriously, as they can seriously be crippled by both the moral and sidekick ratings - which, honestly, are totally ridiculous categories to judge the movies and half the time I gave a zero if they didn't have them. If you are a Barbie fanatic, and genuinely liked a movie that I rated low, I'd suggest taking my \"Barbie\" and \"Story\" ratings, and then make that number out of 10. That's probably a more \"real\" rating for the Barbie movie. \n\nCHAPTERS: \n0:00 - Intro\n0:57 - The Plan\n2:53 - Barbie in the Nutcracker (2001)\n4:42 - Barbie as Rapunzel (2002)\n5:41 - Barbie of Swan Lake (2003)\n6:44 - Barbie as the Princess & The Pauper (2004)\n8:13 - Lore Overview - Day 1\n10:05 - Day 2\n10:32 - Barbie: Fairytopia (2005)\n11:59 - Barbie and the Magic of Pegasus (2005)\n13:12 - Barbie Fairytopia: Mermaidia (2006)\n14:28 - The Barbie Diaries (2006)\n27:08 - Barbie in the 12 Dancing Princesses (2006)\n28:17 - Barbie Fairytopia: Magic of the Rainbow (2007)\n29:25 - Barbie as the Island Princess (2007)\n30:49 - Barbie Mariposa (2008)\n31:58 - Barbie and the Diamond Castle (2008)\n33:29 - Barbie in ‘A Christmas Carol’ (2008)\n34:16 - Barbie Presents: Thumbelina (2009)\n35:05 - Barbie and the Three Musketeers (2009)\n36:42 - Lore Overview - Day 2\n38:06 - Day 3\n39:15 - Barbie in a Mermaid Tale (2010)\n39:58 - Barbie: A Fashion Fairytale (2010)\n41:20 - Barbie: A Fairy Secret (2011)\n42:19 - Barbie: Princess Charm School (2011)\n43:23 - Barbie: A Perfect Christmas (2011)\n44:23 - Barbie in a Mermaid Tale 2 (2012)\n45:13 - Barbie: The Princess & The Popstar (2012)\n59:09 - Barbie in The Pink Shoes (2013)\n1:00:02 - Barbie: Mariposa and the Fairy Princess (2013)\n1:01:13 - Barbie & Her Sister in a Pony Tale (2013)\n1:02:31 - I am struggling \n1:04:07 - Lore Overview - Day 3\n1:06:40 - Day 4\n1:07:07 - Barbie: The Pearl Princess (2013)\n1:08:14 - Barbie in The Secret Door (2014)\n1:09:19 - Barbie in Princess Power (2015)\n1:10:33 - Barbie in Rock ‘N Royals (2015)\n1:11:33 - Barbie & her Sisters in the Great Puppy Adventure (2015)\n1:12:51 - Barbie: Spy Squad (2016)\n1:13:51 - Barbie: Star Light Adventure (2016)\n1:15:07 - Barbie & Her Sisters in A Puppy Chase\n1:28:29 - Lore Overview - Day 4\n1:30:16 - Day 5\n1:30:37 - Barbie Video Game Hero (2017)\n1:31:52 - Barbie: Dolphin Magic (2017)\n1:32:32 - Barbie Princess Adventure (2021)\n1:33:47 - Barbie and Chelsea: The Lost Birthday (2021)\n1:34:34 - Barbie: Big City Big Dreams (2022)\n1:35:18 - Day 6\n1:35:37 - Barbie: Mermaid Power (2022)\n1:36:12 - Barbie: Epic Road Trip (2022)\n1:37:29 - Barbie: Skipper and the Big Babysitting Adventure (2023)\n1:38:20 - Final Lore Overview\n1:40:47 - Ted’s BCU Theory\n1:46:57 - Finale",
+                "publishedAt": "2023-03-04T18:00:11Z",
+                "channelId": "UCJBWZDkunrjWh50Etxdys2g",
+                "title": "Big wave surfers in Southern California #shorts",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/KBWTHZ2TL5I/default.jpg",
+                        "url": "https://i.ytimg.com/vi/QB8GMebrFXg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/KBWTHZ2TL5I/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/QB8GMebrFXg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/KBWTHZ2TL5I/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/QB8GMebrFXg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/KBWTHZ2TL5I/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/KBWTHZ2TL5I/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Ted Nivison",
-                "tags": [
-                    "JehBerDeh",
-                    "TedNivison",
-                    "Ted",
-                    "Nivison",
-                    "Ted Nivision",
-                    "Nivision",
-                    "Nvision"
-                ],
-                "categoryId": "23",
+                "channelTitle": "SoCal Surfer",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "I Watched Every Barbie Movie Ever Made",
-                    "description": "Let our Sponsor BetterHelp connect you to a therapist who can support you - all from the comfort of your own home. Visit https://BetterHelp.com/TedNivison and enjoy a special discount on your first month.\n\nIn this video I embarked on the greatest challenge yet: Watching every Barbie movie ever made and constructed a theory that discovers the true lore of Barbie, all while maintaining my sanity. Enjoy!\n\nFOLLOW ME\n► https://www.instagram.com/tednivison\n► https://twitter.com/TedNivison\n\n► OTHER STUFF: https://linktr.ee/tednivison\n\nAssistant Editor: https://www.instagram.com/ReallyZade\n\nHave an idea you want covered? Submit here: https://forms.gle/wzbXDHqEZZJHwz958\n\nCustom Music by Oval:  @OvalMusic  \nOutro: Pls Proceed by Baron Grand\nRoyalty Free Music by \nhttp://www.epidemicsound.com/\n\nFMC (Frequently Made Comments): \n\n\"Ted doesn't know about modern monarchies like the U.K.\"\n\nI'm aware of the fact that there are monarchies in the world today. What I was trying to figure out was if Mirabella was an \"absolute monarchy,\" as in the monarch is the sole legislative power in the nation. In the case of something like the United Kingdom, that is a constitutional monarchy where the monarch has very little, to almost zero power in the actual workings of the government. There are 7 countries in the world today with absolute monarchies, and one of them funnily enough is The Vatican. \n\n\"I cannot believe that he rated _____ so low\" \n\nI would not take my actual numbered ratings too seriously, as they can seriously be crippled by both the moral and sidekick ratings - which, honestly, are totally ridiculous categories to judge the movies and half the time I gave a zero if they didn't have them. If you are a Barbie fanatic, and genuinely liked a movie that I rated low, I'd suggest taking my \"Barbie\" and \"Story\" ratings, and then make that number out of 10. That's probably a more \"real\" rating for the Barbie movie. \n\nCHAPTERS: \n0:00 - Intro\n0:57 - The Plan\n2:53 - Barbie in the Nutcracker (2001)\n4:42 - Barbie as Rapunzel (2002)\n5:41 - Barbie of Swan Lake (2003)\n6:44 - Barbie as the Princess & The Pauper (2004)\n8:13 - Lore Overview - Day 1\n10:05 - Day 2\n10:32 - Barbie: Fairytopia (2005)\n11:59 - Barbie and the Magic of Pegasus (2005)\n13:12 - Barbie Fairytopia: Mermaidia (2006)\n14:28 - The Barbie Diaries (2006)\n27:08 - Barbie in the 12 Dancing Princesses (2006)\n28:17 - Barbie Fairytopia: Magic of the Rainbow (2007)\n29:25 - Barbie as the Island Princess (2007)\n30:49 - Barbie Mariposa (2008)\n31:58 - Barbie and the Diamond Castle (2008)\n33:29 - Barbie in ‘A Christmas Carol’ (2008)\n34:16 - Barbie Presents: Thumbelina (2009)\n35:05 - Barbie and the Three Musketeers (2009)\n36:42 - Lore Overview - Day 2\n38:06 - Day 3\n39:15 - Barbie in a Mermaid Tale (2010)\n39:58 - Barbie: A Fashion Fairytale (2010)\n41:20 - Barbie: A Fairy Secret (2011)\n42:19 - Barbie: Princess Charm School (2011)\n43:23 - Barbie: A Perfect Christmas (2011)\n44:23 - Barbie in a Mermaid Tale 2 (2012)\n45:13 - Barbie: The Princess & The Popstar (2012)\n59:09 - Barbie in The Pink Shoes (2013)\n1:00:02 - Barbie: Mariposa and the Fairy Princess (2013)\n1:01:13 - Barbie & Her Sister in a Pony Tale (2013)\n1:02:31 - I am struggling \n1:04:07 - Lore Overview - Day 3\n1:06:40 - Day 4\n1:07:07 - Barbie: The Pearl Princess (2013)\n1:08:14 - Barbie in The Secret Door (2014)\n1:09:19 - Barbie in Princess Power (2015)\n1:10:33 - Barbie in Rock ‘N Royals (2015)\n1:11:33 - Barbie & her Sisters in the Great Puppy Adventure (2015)\n1:12:51 - Barbie: Spy Squad (2016)\n1:13:51 - Barbie: Star Light Adventure (2016)\n1:15:07 - Barbie & Her Sisters in A Puppy Chase\n1:28:29 - Lore Overview - Day 4\n1:30:16 - Day 5\n1:30:37 - Barbie Video Game Hero (2017)\n1:31:52 - Barbie: Dolphin Magic (2017)\n1:32:32 - Barbie Princess Adventure (2021)\n1:33:47 - Barbie and Chelsea: The Lost Birthday (2021)\n1:34:34 - Barbie: Big City Big Dreams (2022)\n1:35:18 - Day 6\n1:35:37 - Barbie: Mermaid Power (2022)\n1:36:12 - Barbie: Epic Road Trip (2022)\n1:37:29 - Barbie: Skipper and the Big Babysitting Adventure (2023)\n1:38:20 - Final Lore Overview\n1:40:47 - Ted’s BCU Theory\n1:46:57 - Finale"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2023-03-04T18:00:11Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "tFUZ7fWdUmYXM1_Xvl86G8UzgUE",
-            "id": "wVKlD8c9hs4",
+            "kind": "youtube#searchResult",
+            "etag": "jRzXduoQwqyQgd1lCCQ7kFJmhHw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b_98DPL9Oqc"
+            },
             "snippet": {
-                "publishedAt": "2024-03-04T17:00:48Z",
-                "channelId": "UCXq2nALoSbxLMehAvYTxt_A",
-                "title": "\"As Seen on TV\"  as seen on 10 Minute Power Hour",
-                "description": "[CC ► ENG/ESP] 👏 Congrats to Arin for his new teeth! 👏\nGet the bigger, longer, uncut version on Patreon ► https://www.patreon.com/gamegrumps\nProducts tagged for you to try on your own!\n\nClick to SUBSCRIBE ► http://bit.ly/GrumpSubscribe\n\n*********************************************\nMERCH!! ► http://gamegrumps.com/merch\n*********************************************\n\nFACEBOOK ► https://www.facebook.com/GameGrumps\nINSTAGRAM ► https://www.instagram.com/gamegrumps/\nTIKTOK  ► https://www.tiktok.com/@gamegrumps\nTWITTER ► https://www.twitter.com/gamegrumps\nWEBSITE ► http://gamegrumps.com\nOur email list! ► http://eepurl.com/cN7syX \n\n*********************************************\n🎵water slide, Hammock, and pool water from Stevia Sphere ► http://www.steviasphere.bandcamp.com 🎵\nIntro and additional music by Harry Foster \n\nGame Grumps are:\nArin ► http://www.youtube.com/Egoraptor\nDanny ► http://www.youtube.com/NinjaSexParty\n\n#AsSeenOnTV #10MPH #OnePee",
+                "publishedAt": "2024-03-02T19:43:59Z",
+                "channelId": "UCZhixj2QS9WzrluwSc9iCzA",
+                "title": "WEBCAST - Competition Day 8  - 2024 ISA World Surfing Games",
+                "description": "ISASURFING Subscribe to our Youtube channel to watch all the World Surfing Championships live, highlights, Interviews and ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/wVKlD8c9hs4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/b_98DPL9Oqc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/wVKlD8c9hs4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/b_98DPL9Oqc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/wVKlD8c9hs4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/b_98DPL9Oqc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/wVKlD8c9hs4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/wVKlD8c9hs4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "The Grumps",
-                "tags": [
-                    "game grumps",
-                    "Game Grumps",
-                    "The Grumps",
-                    "the grumps",
-                    "the grumps 10 minute power hour",
-                    "10 minute power hour",
-                    "ten minute power hour",
-                    "10 mph",
-                    "10mph",
-                    "10 mph game grumps",
-                    "egoraptor",
-                    "danny",
-                    "arin hanson",
-                    "dan avidan",
-                    "arin and dan",
-                    "dan and arin",
-                    "dan and arin being married",
-                    "gamegrumps"
-                ],
-                "categoryId": "24",
+                "channelTitle": "ISAsurfing",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "\"As Seen on TV\"  as seen on 10 Minute Power Hour",
-                    "description": "[CC ► ENG/ESP] 👏 Congrats to Arin for his new teeth! 👏\nGet the bigger, longer, uncut version on Patreon ► https://www.patreon.com/gamegrumps\nProducts tagged for you to try on your own!\n\nClick to SUBSCRIBE ► http://bit.ly/GrumpSubscribe\n\n*********************************************\nMERCH!! ► http://gamegrumps.com/merch\n*********************************************\n\nFACEBOOK ► https://www.facebook.com/GameGrumps\nINSTAGRAM ► https://www.instagram.com/gamegrumps/\nTIKTOK  ► https://www.tiktok.com/@gamegrumps\nTWITTER ► https://www.twitter.com/gamegrumps\nWEBSITE ► http://gamegrumps.com\nOur email list! ► http://eepurl.com/cN7syX \n\n*********************************************\n🎵water slide, Hammock, and pool water from Stevia Sphere ► http://www.steviasphere.bandcamp.com 🎵\nIntro and additional music by Harry Foster \n\nGame Grumps are:\nArin ► http://www.youtube.com/Egoraptor\nDanny ► http://www.youtube.com/NinjaSexParty\n\n#AsSeenOnTV #10MPH #OnePee"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-03-02T19:43:59Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "t-vJZTE4NDHqgx0q_oFDCYE-i4E",
-            "id": "a2lkgs4MsF0",
+            "kind": "youtube#searchResult",
+            "etag": "BtA2MGs799w4fpUbTxGpaa9D-Z4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W6dytFPLQxU"
+            },
             "snippet": {
-                "publishedAt": "2024-03-04T03:27:56Z",
-                "channelId": "UCX_tjI6Q_4JD1E3234CwemA",
-                "title": "USA vs. Colombia: Extended Highlights | CONCACAF W Gold Cup I CBS Sports Attacking Third",
-                "description": "The USA face off against Colombia as both sides look for a fast start in the first round of the knockout stage in the CONCACAF W Gold Cup.\n\n#usa  #colombia  #GoldCup #CONCACAF\nSUBSCRIBE TO THIS CHANNEL: https://www.youtube.com/channel/UCX_tjI6Q_4JD1E3234CwemA/featured\n\nWatch USWNT, NWSL and WSL games on Paramount+ https://www.paramountplus.com/home/\n\nVIDEO\n--SUBSCRIBE to CBS Sports Golazo on YouTube: https://www.youtube.com/@cbssportsgolazo\n-SUBSCRIBE to CBS Sports HQ on YouTube: https://www.youtube.com/c/CBSSportsHQ/\n\nWEBSITE\n-READ top-notch soccer content from CBS Sports: https://www.cbssports.com/soccer/\n\nSOCIAL MEDIA\n-FOLLOW Attacking Third on Twitter: https://twitter.com/AttackingThird\n-FOLLOW Attacking Third on Instagram: https://www.instagram.com/attackingthird/\n-FOLLOW Attacking Third on TikTok: https://www.tiktok.com/@attackingthird\n-FOLLOW CBS Sports Soccer on Twitter: https://twitter.com/CBSSportsGolazo\n-Follow CBS Sports Soccer on Instagram: https://www.instagram.com/cbssportsgolazo/\n-FOLLOW CBS Sports on Twitter: https://twitter.com/CBSSports\n-FOLLOW CBS Sports on Instagram: https://www.instagram.com/cbssports/\n\nABOUT THE SHOW: A soccer show from CBS Sports covering the NWSL, US Women's National Team and more. Attacking Third will bring you insider analysis, commentary, preview & recaps while tackling the biggest news stories from the sport you love. Join Jenny Chiu, Lisa Carlin, Sandra Herrera, Darian Jenkins, Poppy Miller and Jordan Angeli as they welcome a rotating cast of guests from former and current players for interviews and analysis.\n\n\n#NWSL #SanDiegoWaveFC #PortlandThorns #GothamFC #WashingtonSpirit #NorthCarolinaCourage #OrlandoPride #HoustonDash #KCCurrent #ChicagoRedStars #RacingLouisville #OLReign #AngelCityFC \n\nAUDIO\n'Attacking Third' is available on Apple Podcasts, Spotify, Stitcher, Google Podcasts and wherever else you listen to podcasts. \n-LISTEN to Attacking Third on your preferred podcast platform: https://link.chtbl.com/AttackingThird\n-LEAVE a 5-star review on Apple Podcasts: https://podcasts.apple.com/us/podcast/attacking-third-a-cbs-sports-soccer-podcast/id1573642138\n-STREAM on Spotify: https://open.spotify.com/show/32OVfPoFl8BMNEsFJCnnHN?si=5c567hIwSiOc7U62bx-r9w&dl_branch=1\n-FOLLOW on Stitcher: https://www.stitcher.com/show/attacking-third-a-cbs-sports-soccer-podcast\n-SUBSCRIBE on Google Podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vYXR0YWNraW5ndGhpcmQ\n-SUBSCRIBE to CBS Sports variety of other podcasts: https://www.cbssports.com/podcast",
+                "publishedAt": "2024-03-05T03:11:42Z",
+                "channelId": "UCBnLE14tUHTDyDc8Xij9rAg",
+                "title": "Surfer rescued from Pipeline thanks first responders who saved him",
+                "description": "It's been nearly a year since extended hours went into effect for O'ahu's North Shore lifeguards and for New York transplant Austin ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/a2lkgs4MsF0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/W6dytFPLQxU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/a2lkgs4MsF0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/W6dytFPLQxU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/a2lkgs4MsF0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/W6dytFPLQxU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/a2lkgs4MsF0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/a2lkgs4MsF0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Attacking Third: Soccer Highlights and Commentary ",
-                "tags": [
-                    "NWSL",
-                    "USWNT",
-                    "Soccer",
-                    "CBS Sports",
-                    "USA",
-                    "San Diego Wave FC",
-                    "Portland Thorns",
-                    "Washington Spirit",
-                    "Orlando Pride",
-                    "Gotham FC",
-                    "NC Courage",
-                    "Houson Dash",
-                    "KC Current",
-                    "Chicago Red Stars",
-                    "Racing Louisville",
-                    "OL Reign",
-                    "Sandra Herrera",
-                    "Lisa Carlin",
-                    "Jenny Chiu",
-                    "Attacking Third",
-                    "Attacking Third Show",
-                    "Attacking Third Podacast",
-                    "Angel City FC",
-                    "Darian Jenkins",
-                    "CBS"
-                ],
-                "categoryId": "17",
+                "channelTitle": "Hawaii News Now",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en-US",
-                "localized": {
-                    "title": "USA vs. Colombia: Extended Highlights | CONCACAF W Gold Cup I CBS Sports Attacking Third",
-                    "description": "The USA face off against Colombia as both sides look for a fast start in the first round of the knockout stage in the CONCACAF W Gold Cup.\n\n#usa  #colombia  #GoldCup #CONCACAF\nSUBSCRIBE TO THIS CHANNEL: https://www.youtube.com/channel/UCX_tjI6Q_4JD1E3234CwemA/featured\n\nWatch USWNT, NWSL and WSL games on Paramount+ https://www.paramountplus.com/home/\n\nVIDEO\n--SUBSCRIBE to CBS Sports Golazo on YouTube: https://www.youtube.com/@cbssportsgolazo\n-SUBSCRIBE to CBS Sports HQ on YouTube: https://www.youtube.com/c/CBSSportsHQ/\n\nWEBSITE\n-READ top-notch soccer content from CBS Sports: https://www.cbssports.com/soccer/\n\nSOCIAL MEDIA\n-FOLLOW Attacking Third on Twitter: https://twitter.com/AttackingThird\n-FOLLOW Attacking Third on Instagram: https://www.instagram.com/attackingthird/\n-FOLLOW Attacking Third on TikTok: https://www.tiktok.com/@attackingthird\n-FOLLOW CBS Sports Soccer on Twitter: https://twitter.com/CBSSportsGolazo\n-Follow CBS Sports Soccer on Instagram: https://www.instagram.com/cbssportsgolazo/\n-FOLLOW CBS Sports on Twitter: https://twitter.com/CBSSports\n-FOLLOW CBS Sports on Instagram: https://www.instagram.com/cbssports/\n\nABOUT THE SHOW: A soccer show from CBS Sports covering the NWSL, US Women's National Team and more. Attacking Third will bring you insider analysis, commentary, preview & recaps while tackling the biggest news stories from the sport you love. Join Jenny Chiu, Lisa Carlin, Sandra Herrera, Darian Jenkins, Poppy Miller and Jordan Angeli as they welcome a rotating cast of guests from former and current players for interviews and analysis.\n\n\n#NWSL #SanDiegoWaveFC #PortlandThorns #GothamFC #WashingtonSpirit #NorthCarolinaCourage #OrlandoPride #HoustonDash #KCCurrent #ChicagoRedStars #RacingLouisville #OLReign #AngelCityFC \n\nAUDIO\n'Attacking Third' is available on Apple Podcasts, Spotify, Stitcher, Google Podcasts and wherever else you listen to podcasts. \n-LISTEN to Attacking Third on your preferred podcast platform: https://link.chtbl.com/AttackingThird\n-LEAVE a 5-star review on Apple Podcasts: https://podcasts.apple.com/us/podcast/attacking-third-a-cbs-sports-soccer-podcast/id1573642138\n-STREAM on Spotify: https://open.spotify.com/show/32OVfPoFl8BMNEsFJCnnHN?si=5c567hIwSiOc7U62bx-r9w&dl_branch=1\n-FOLLOW on Stitcher: https://www.stitcher.com/show/attacking-third-a-cbs-sports-soccer-podcast\n-SUBSCRIBE on Google Podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vYXR0YWNraW5ndGhpcmQ\n-SUBSCRIBE to CBS Sports variety of other podcasts: https://www.cbssports.com/podcast"
-                },
-                "defaultAudioLanguage": "en-US"
+                "publishTime": "2024-03-05T03:11:42Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "kWkP_HOfJL1NHSuTg4D1JvmmQho",
-            "id": "6BfQ0yW0pk8",
+            "kind": "youtube#searchResult",
+            "etag": "GXX16HUoCxFLIsAbFOS1mTKHvow",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xtHZKToMvus"
+            },
             "snippet": {
-                "publishedAt": "2024-03-03T20:54:54Z",
-                "channelId": "UCGTKwjs1ctvgwCRa67RNO-Q",
-                "title": "World’s First Cybertruck On TRACKS Is Crazier Than You Think!",
-                "description": "Go to https://drinkag1.com/heavydsparks to get a free year supply of vitamin d3k\n2, and 10 extra travel packs of AG1! \n\nCan't thank ​⁠​⁠​⁠​⁠​⁠@supercar_ron enough for making this happen! If you're not following Ron please stop what your doing and give him a follow! This wild project wouldn't have happened without him donating his NEW Cyber truck! This dude has has a handful of VERY VERY Viral videos and is one hell of an entertainer, so please show him some love! \n​⁠​⁠​⁠​⁠​⁠@supercar_ron ​⁠​⁠​⁠​⁠​⁠@supercar_ron ​⁠​⁠​⁠​⁠​⁠@supercar_ron \n\nHuge shout out to Baja Designs for sending out the lights! The second the first picture of this thing was posted they immediately reached out to help! The lights that we picked out for this project are the new LP9 Lights. The guys in the shop were able to make this clean light rack for the top of the truck that flows so well with the lines of the truck. We have the lights tied into their own battery bank that we have mounted in the bed of the truck so it doesn't pull any energy from the truck. We love they way they turned out on this truck! If you're in the market for the brightest lights in the game please go check them out!\nhttps://www.bajadesigns.com/\n\nWe also want to give a huge shout out to ArcticFX! I had a vision in my mind on what I wanted but couldn't get it dialed in just right till I handed the design work over to their team. Once design was dialed in they sent the wrap out and made it happen! We've been using ArcticFX for years now helping us with everything from my personal sleds to our giveaway trucks, they are absolute animals in the wrap game. If you are in the market for a new wrap for your sled/UTV/Bike please hit them up. They truly have changed the custom wrap game!\nhttps://www.arcticfxgraphics.com/\nhttps://www.youtube.com/c/arcticfxgraphics\n\nWe also want to give a big thanks to the team at @helltraxx! They have built the world’s best tracks! We’ve ran this set on a few different builds and we’re blown away at how well they work! Zero issues on each of the vehicles! Check them out as they do big things! @helltraxx \n\nYou can win one of my personal vehicles by subscribing to all of my channels right now!\nhttps://www.youtube.com/c/HeavyDSparks\nhttps://www.youtube.com/c/HeavyChecklist\nhttps://www.youtube.com/@heavydsparksespanol\n\nCustom Brodozer Yankum Rope: https://brodozerrope.com\n\nAdvertising and partnership inquiries email info@heavydsparks.com\n\nFollow Me on Insta: https://www.instagram.com/heavydsparks\n\n#heavydsparks #tesla #cybertruck",
+                "publishedAt": "2022-11-02T17:46:49Z",
+                "channelId": "UCTYHNSWYy4jCSCj1Q1Fq0ew",
+                "title": "Interlusion | A Billabong Surf Film Shot in the Mentawai Islands",
+                "description": "Welcome to the Interlusion. What happens when the best surf trip of former world champ Joel Parkinson's life happens years after ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/6BfQ0yW0pk8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/xtHZKToMvus/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/6BfQ0yW0pk8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xtHZKToMvus/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/6BfQ0yW0pk8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xtHZKToMvus/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "HeavyDSparks",
-                "tags": [
-                    "gta 5 tow truck roleplay",
-                    "towing",
-                    "snowrunner",
-                    "trailers",
-                    "family friendly",
-                    "no swearing",
-                    "Recovery",
-                    "Diesel",
-                    "Diesel brothers",
-                    "Heavy equipment",
-                    "Whistlindiesel",
-                    "Cleetus McFarland",
-                    "Demolition ranch",
-                    "Matt’s Offroad",
-                    "Mud",
-                    "Adventure",
-                    "For you",
-                    "Heavydsparks",
-                    "Sparks motors",
-                    "Freedom bus",
-                    "Dirt",
-                    "Dirt work",
-                    "Tractor",
-                    "Dave sparks",
-                    "Diesel Dave",
-                    "tow truck",
-                    "wrecker",
-                    "blue collar",
-                    "excavator",
-                    "equipment",
-                    "heavy duty",
-                    "dozer",
-                    "hunting",
-                    "hellcat",
-                    "JEEP",
-                    "snowcat",
-                    "oshkosh",
-                    "auction",
-                    "govplanet",
-                    "public surplus",
-                    "abandoned",
-                    "storage unit"
-                ],
-                "categoryId": "24",
+                "channelTitle": "Billabong",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "World’s First Cybertruck On TRACKS Is Crazier Than You Think!",
-                    "description": "Go to https://drinkag1.com/heavydsparks to get a free year supply of vitamin d3k\n2, and 10 extra travel packs of AG1! \n\nCan't thank ​⁠​⁠​⁠​⁠​⁠@supercar_ron enough for making this happen! If you're not following Ron please stop what your doing and give him a follow! This wild project wouldn't have happened without him donating his NEW Cyber truck! This dude has has a handful of VERY VERY Viral videos and is one hell of an entertainer, so please show him some love! \n​⁠​⁠​⁠​⁠​⁠@supercar_ron ​⁠​⁠​⁠​⁠​⁠@supercar_ron ​⁠​⁠​⁠​⁠​⁠@supercar_ron \n\nHuge shout out to Baja Designs for sending out the lights! The second the first picture of this thing was posted they immediately reached out to help! The lights that we picked out for this project are the new LP9 Lights. The guys in the shop were able to make this clean light rack for the top of the truck that flows so well with the lines of the truck. We have the lights tied into their own battery bank that we have mounted in the bed of the truck so it doesn't pull any energy from the truck. We love they way they turned out on this truck! If you're in the market for the brightest lights in the game please go check them out!\nhttps://www.bajadesigns.com/\n\nWe also want to give a huge shout out to ArcticFX! I had a vision in my mind on what I wanted but couldn't get it dialed in just right till I handed the design work over to their team. Once design was dialed in they sent the wrap out and made it happen! We've been using ArcticFX for years now helping us with everything from my personal sleds to our giveaway trucks, they are absolute animals in the wrap game. If you are in the market for a new wrap for your sled/UTV/Bike please hit them up. They truly have changed the custom wrap game!\nhttps://www.arcticfxgraphics.com/\nhttps://www.youtube.com/c/arcticfxgraphics\n\nWe also want to give a big thanks to the team at @helltraxx! They have built the world’s best tracks! We’ve ran this set on a few different builds and we’re blown away at how well they work! Zero issues on each of the vehicles! Check them out as they do big things! @helltraxx \n\nYou can win one of my personal vehicles by subscribing to all of my channels right now!\nhttps://www.youtube.com/c/HeavyDSparks\nhttps://www.youtube.com/c/HeavyChecklist\nhttps://www.youtube.com/@heavydsparksespanol\n\nCustom Brodozer Yankum Rope: https://brodozerrope.com\n\nAdvertising and partnership inquiries email info@heavydsparks.com\n\nFollow Me on Insta: https://www.instagram.com/heavydsparks\n\n#heavydsparks #tesla #cybertruck"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2022-11-02T17:46:49Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "cX3ckH4vqtcfMQTC0HvLiZGe73g",
-            "id": "kQ0dUNb7CwY",
+            "kind": "youtube#searchResult",
+            "etag": "M8Or9WjEyFrGfBow5IuaIOz801U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JnS7floV874"
+            },
             "snippet": {
-                "publishedAt": "2024-03-03T21:48:36Z",
-                "channelId": "UCBs2Y3i14e1NWQxOGliatmg",
-                "title": "A Painfully Honest Review of Netflix Avatar",
-                "description": "Good news! Netflix's take on Avatar isn't as bad as The Last Airbender movie. Bad news, that's not really saying much...\nGet some energy drinks and/or calming sleepytime tea at https://gamersupps.gg/basement\n\nChapters: \n0:00 Book 0: Destiny\n04:58 Book 1: Edge \n22:14 Book 2: Imbalance\n39:23 Book 3: Why? \n\nSupport me on Patreon: https://www.patreon.com/mothersbasement\r\n\r\nSubscribe to Mother's Basement for anime and gaming videos every week: https://www.youtube.com/subscription_center?add_user=UCBs2Y3i14e1NWQxOGliatmg\r\n\r\nValidate me!\r\n\r\nFollow me on twitter: https://twitter.com/G0ffThew\r\nAlso on facebook: https://www.facebook.com/mothersbasementofficial\r\nAnd check out my Steam Curator page: http://steamcommunity.com/groups/mothers_basement/curation\r\nand the new Mother's Basement Subreddit: https://www.reddit.com/r/mothersbasement\r\n\r\nIn the depths of his Mother's Basement, Geoff Thew creates videos analyzing the storytelling techniques of anime and video games.",
+                "publishedAt": "2024-03-01T19:46:22Z",
+                "channelId": "UCZhixj2QS9WzrluwSc9iCzA",
+                "title": "WEBCAST - Competition Day 7  - 2024 ISA World Surfing Games",
+                "description": "ISASURFING Subscribe to our Youtube channel to watch all the World Surfing Championships live, highlights, Interviews and ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/kQ0dUNb7CwY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/JnS7floV874/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/kQ0dUNb7CwY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/JnS7floV874/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/kQ0dUNb7CwY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/JnS7floV874/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kQ0dUNb7CwY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/kQ0dUNb7CwY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Mother's Basement",
-                "tags": [
-                    "Mother's Basement",
-                    "Anime",
-                    "review",
-                    "netflix avatar",
-                    "avatar the last airbender",
-                    "netflix avatar review",
-                    "the last airbender",
-                    "live action avatar",
-                    "netflix anime",
-                    "netflix live action",
-                    "m night shyamalan",
-                    "aang",
-                    "sokka",
-                    "katara",
-                    "zuko",
-                    "iroh",
-                    "azula",
-                    "ozai",
-                    "zhao",
-                    "momo",
-                    "appa",
-                    "avatar the last airbender review",
-                    "cowboy bebop",
-                    "netflix",
-                    "one piece",
-                    "netflix one piece",
-                    "death note",
-                    "live action anime",
-                    "cartoon",
-                    "netflix avatar bad",
-                    "the last airbender netflix",
-                    "avatar analysis",
-                    "live action"
-                ],
-                "categoryId": "1",
+                "channelTitle": "ISAsurfing",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en-CA",
-                "localized": {
-                    "title": "A Painfully Honest Review of Netflix Avatar",
-                    "description": "Good news! Netflix's take on Avatar isn't as bad as The Last Airbender movie. Bad news, that's not really saying much...\nGet some energy drinks and/or calming sleepytime tea at https://gamersupps.gg/basement\n\nChapters: \n0:00 Book 0: Destiny\n04:58 Book 1: Edge \n22:14 Book 2: Imbalance\n39:23 Book 3: Why? \n\nSupport me on Patreon: https://www.patreon.com/mothersbasement\r\n\r\nSubscribe to Mother's Basement for anime and gaming videos every week: https://www.youtube.com/subscription_center?add_user=UCBs2Y3i14e1NWQxOGliatmg\r\n\r\nValidate me!\r\n\r\nFollow me on twitter: https://twitter.com/G0ffThew\r\nAlso on facebook: https://www.facebook.com/mothersbasementofficial\r\nAnd check out my Steam Curator page: http://steamcommunity.com/groups/mothers_basement/curation\r\nand the new Mother's Basement Subreddit: https://www.reddit.com/r/mothersbasement\r\n\r\nIn the depths of his Mother's Basement, Geoff Thew creates videos analyzing the storytelling techniques of anime and video games."
-                },
-                "defaultAudioLanguage": "en-CA"
+                "publishTime": "2024-03-01T19:46:22Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "AUCecUZhG0NsQmiC0GODJgFIU9Q",
-            "id": "SAr_zIz5GSU",
+            "kind": "youtube#searchResult",
+            "etag": "5IuQhzvbYaw2ypDCZu_tlHiyn8M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "f2M_Hxg4GVw"
+            },
             "snippet": {
-                "publishedAt": "2024-03-03T21:04:23Z",
-                "channelId": "UC3L9XPe0_FGfRG-CMGtBvFg",
-                "title": "We Will Never See Anything Like This Again",
-                "description": "Use code JXMY10 for 10% off tickets on SeatGeek. \n\nhttps://seatgeek.onelink.me/RrnK/JXMY10 *Up to $25 off\n\n*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS",
+                "publishedAt": "2024-02-08T03:46:30Z",
+                "channelId": "UCxZkEXKbceGWcB60WDK_fQg",
+                "title": "living in a surf van 🚐 🏄‍♂️",
+                "description": "shorts #short #surf #surfshack #vanlife #santabarbara #california #surfer #surfing #vanlifers #vanlifediaries #rent #rentfree #tour ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/SAr_zIz5GSU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/f2M_Hxg4GVw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/SAr_zIz5GSU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/f2M_Hxg4GVw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/SAr_zIz5GSU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/f2M_Hxg4GVw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/SAr_zIz5GSU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/SAr_zIz5GSU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "JxmyHighroller",
-                "tags": [
-                    "LeBron James",
-                    "House of Highlights",
-                    "ESPN",
-                    "NBA highlights",
-                    "Jimmy Highroller",
-                    "NBA trash talk",
-                    "Buzzer Beaters",
-                    "Brooklyn Nets",
-                    "Ankle Breakers",
-                    "NBA Championship",
-                    "Rebound",
-                    "Stephen Curry",
-                    "Lakers",
-                    "nba breaking news",
-                    "Nikola Jokic",
-                    "Victor Wembenyama",
-                    "Michael Jordan",
-                    "kobe bryant",
-                    "in season tournament",
-                    "kyrie",
-                    "nba free agency",
-                    "Giannis Antetokounmpo",
-                    "NBA trade",
-                    "Milwaukee Bucks",
-                    "LeBron James 40000 points",
-                    "LeBron breaks record"
-                ],
-                "categoryId": "17",
+                "channelTitle": "Kyle Goes Off",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "We Will Never See Anything Like This Again",
-                    "description": "Use code JXMY10 for 10% off tickets on SeatGeek. \n\nhttps://seatgeek.onelink.me/RrnK/JXMY10 *Up to $25 off\n\n*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS"
-                }
+                "publishTime": "2024-02-08T03:46:30Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "MfjnQPPXlO10inmWv-jUecEP23Y",
-            "id": "fL6mCZtaHLQ",
+            "kind": "youtube#searchResult",
+            "etag": "UfhZR2akKJ-GUsGzFbRJXFueTeM",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCKo-NbWOxnxBnU41b-AoKeA"
+            },
             "snippet": {
-                "publishedAt": "2024-03-02T19:07:25Z",
-                "channelId": "UCo_IB5145EVNcf8hw1Kku7w",
-                "title": "Game Theory: FNAF, Thanks For The Memories",
-                "description": "Last Chance To Get My OFFICIAL YouTooz Before It's GONE Forever!\nhttps://youtooz.com/collections/matpat\n\nWell, here it is, my last FNAF theory. It’s been a WILD ride over the past decade of overanalyzing, theorizing and toe counting and to be honest… I loved every second of it. Today’s theory attempts to give closure to over 10 years and 60 theories worth of thoughts. I wanna talk today about legacy, not just my own but Scott Cawthon's as well, and how through one small choice he not only changed my life, but he changed the ENTIRE world!\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*🔽 Don’t Miss Out!*\nGet Your TheoryWear! ► https://theorywear.com/\nDive into the Reddit! ► https://www.reddit.com/r/GameTheorists/\n\nNeed Royalty Free Music for your Content? Try Epidemic Sound.\nGet Your 30 Day Free Trial Now ► http://share.epidemicsound.com/MatPat\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*👀 Watch MORE Theories:*\nFNAF, A Fragmented Memory (Help Wanted 2)►► https://youtu.be/cTT-fZaHy1Y\nFNAF, Help Me SOLVE The Impossible! ►► https://youtu.be/TmlyIOsUT-g\nFNAF, I Solved Ruin ►► https://youtu.be/kRsAOW2zE20\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*SUBSCRIBE to Game Theory!*\nhttps://www.youtube.com/@GameTheory/?sub_confirmation=1\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Join Our Other YouTube Channels!*\n🎥    @FilmTheory  \n🍔    @FoodTheory         \n👔    @StyleTheorists         \n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Credits:*\nWriters: Matthew Patrick and Tom Robinson\nEditors: Dan \"Cybert\" Seibert, Koen Verhagen, Pedro Freitas, and Tyler Mascola\nSound Designer: Yosi Berman\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n#FNAF #FiveNightsAtFreddys #FNAFRuin #FNAFVR2 #FNAFHelpWanted #HelpWanted #RuinDLC #FNAFLore #FNAFTheory #Theory #GameTheory #Matpat",
+                "publishedAt": "2005-11-02T06:29:47Z",
+                "channelId": "UCKo-NbWOxnxBnU41b-AoKeA",
+                "title": "SURFER",
+                "description": "We founded SURFER Magazine with a mission: to bring our readers a slice of the entire surfing world with each issue. And for ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/fL6mCZtaHLQ/default.jpg",
-                        "width": 120,
-                        "height": 90
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_kPtu5K7EHLh0-_dHbWWMcNn7XZ-bAohcYIi6JuEc0=s88-c-k-c0xffffffff-no-rj-mo"
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/fL6mCZtaHLQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_kPtu5K7EHLh0-_dHbWWMcNn7XZ-bAohcYIi6JuEc0=s240-c-k-c0xffffffff-no-rj-mo"
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/fL6mCZtaHLQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/fL6mCZtaHLQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/fL6mCZtaHLQ/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_kPtu5K7EHLh0-_dHbWWMcNn7XZ-bAohcYIi6JuEc0=s800-c-k-c0xffffffff-no-rj-mo"
                     }
                 },
-                "channelTitle": "The Game Theorists",
-                "tags": [
-                    "fnaf",
-                    "five nights at freddys",
-                    "fnaf ruin",
-                    "fnaf into the pit",
-                    "fnaf ruin dlc",
-                    "five nights at freddys movie",
-                    "fnaf movie",
-                    "fnaf game",
-                    "fnaf lore",
-                    "fnaf explained",
-                    "scott cawthon",
-                    "fnaf movie trailer",
-                    "fnaf security breach",
-                    "fnaf dlc",
-                    "fnaf sb",
-                    "security breach",
-                    "security breach ruin",
-                    "ruin dlc",
-                    "help wanted 2",
-                    "fnaf vr",
-                    "fnaf vr 2",
-                    "fnaf vr help wanted 2",
-                    "fnaf vr help wanted",
-                    "game theorists",
-                    "matpat",
-                    "game theory",
-                    "matpat fnaf",
-                    "fnaf game theory",
-                    "gt",
-                    "fnaf matpat",
-                    "goodbye internet"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Game Theory: FNAF, Thanks For The Memories",
-                    "description": "Last Chance To Get My OFFICIAL YouTooz Before It's GONE Forever!\nhttps://youtooz.com/collections/matpat\n\nWell, here it is, my last FNAF theory. It’s been a WILD ride over the past decade of overanalyzing, theorizing and toe counting and to be honest… I loved every second of it. Today’s theory attempts to give closure to over 10 years and 60 theories worth of thoughts. I wanna talk today about legacy, not just my own but Scott Cawthon's as well, and how through one small choice he not only changed my life, but he changed the ENTIRE world!\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*🔽 Don’t Miss Out!*\nGet Your TheoryWear! ► https://theorywear.com/\nDive into the Reddit! ► https://www.reddit.com/r/GameTheorists/\n\nNeed Royalty Free Music for your Content? Try Epidemic Sound.\nGet Your 30 Day Free Trial Now ► http://share.epidemicsound.com/MatPat\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*👀 Watch MORE Theories:*\nFNAF, A Fragmented Memory (Help Wanted 2)►► https://youtu.be/cTT-fZaHy1Y\nFNAF, Help Me SOLVE The Impossible! ►► https://youtu.be/TmlyIOsUT-g\nFNAF, I Solved Ruin ►► https://youtu.be/kRsAOW2zE20\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*SUBSCRIBE to Game Theory!*\nhttps://www.youtube.com/@GameTheory/?sub_confirmation=1\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Join Our Other YouTube Channels!*\n🎥    @FilmTheory  \n🍔    @FoodTheory         \n👔    @StyleTheorists         \n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Credits:*\nWriters: Matthew Patrick and Tom Robinson\nEditors: Dan \"Cybert\" Seibert, Koen Verhagen, Pedro Freitas, and Tyler Mascola\nSound Designer: Yosi Berman\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n#FNAF #FiveNightsAtFreddys #FNAFRuin #FNAFVR2 #FNAFHelpWanted #HelpWanted #RuinDLC #FNAFLore #FNAFTheory #Theory #GameTheory #Matpat"
-                },
-                "defaultAudioLanguage": "en-US"
+                "channelTitle": "SURFER",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2005-11-02T06:29:47Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "q1mkwPBYS9jJ7ToTTYij_dWooz0",
-            "id": "M7-h3FO-KKo",
+            "kind": "youtube#searchResult",
+            "etag": "ivPIdRyE22ptaNPDMndWwMsF84U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bJpa_60UlNE"
+            },
             "snippet": {
-                "publishedAt": "2024-03-02T15:00:19Z",
-                "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
-                "title": "Testing If You Can Blow Your Own Sail",
-                "description": "You now know 7 amazing new things and that’s cooler than magic! Get the CrunchLabs Build Box! Two FREE boxes at https://crunchlabs.com/teaser\n\nI started a company called CrunchLabs, where we build a toy together, and then I teach you all the juicy physics of how it works. So if you want to learn to think like an engineer and have a really fun time doing it, check out the current promotion where you get 2 FREE boxes at  https://crunchlabs.com/teaser\n\nThanks to these folks for providing some of the music in the video:\nPonder - @Pondermusic \nLaura Shigihara - @supershigi \nAndrew Applepie - https://soundcloud.com/andrewapplepie\nBlue Wednesday - https://soundcloud.com/bluewednesday\n\nNO PURCHASE NECESSARY. Promotion starts on 1/1/2024 & ends on 12/31/24, subject to monthly entry deadlines. Open to legal residents of the 50 U.S. & D.C., 18+. 1 prize per month: each month is its own separate promotion. For the first 2-3 months, winner may be notified via phone call instead of winning game piece. If a monthly prize is unclaimed/forfeited, it will be awarded via 2nd chance drawing. See Official Rules at crunchlabs.com/sweepstakes for full details on eligibility requirements, how to enter, free method of entry, prize claim procedure, prize description and limitations. Void where prohibited.",
+                "publishedAt": "2023-01-23T03:29:18Z",
+                "channelId": "UC4i3-yfVazfuqwoz71T79Sw",
+                "title": "The 2023 Eddie Aikau Big Wave Invitational at Waimea Bay",
+                "description": "World's most iconic big-wave event returns to Waimea Bay. WHAT ARE WE WATCHING? The word “unique” is thrown around a ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/M7-h3FO-KKo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/bJpa_60UlNE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/M7-h3FO-KKo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bJpa_60UlNE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/M7-h3FO-KKo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bJpa_60UlNE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/M7-h3FO-KKo/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/M7-h3FO-KKo/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Mark Rober",
-                "categoryId": "28",
+                "channelTitle": "Surfline",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Testing If You Can Blow Your Own Sail",
-                    "description": "You now know 7 amazing new things and that’s cooler than magic! Get the CrunchLabs Build Box! Two FREE boxes at https://crunchlabs.com/teaser\n\nI started a company called CrunchLabs, where we build a toy together, and then I teach you all the juicy physics of how it works. So if you want to learn to think like an engineer and have a really fun time doing it, check out the current promotion where you get 2 FREE boxes at  https://crunchlabs.com/teaser\n\nThanks to these folks for providing some of the music in the video:\nPonder - @Pondermusic \nLaura Shigihara - @supershigi \nAndrew Applepie - https://soundcloud.com/andrewapplepie\nBlue Wednesday - https://soundcloud.com/bluewednesday\n\nNO PURCHASE NECESSARY. Promotion starts on 1/1/2024 & ends on 12/31/24, subject to monthly entry deadlines. Open to legal residents of the 50 U.S. & D.C., 18+. 1 prize per month: each month is its own separate promotion. For the first 2-3 months, winner may be notified via phone call instead of winning game piece. If a monthly prize is unclaimed/forfeited, it will be awarded via 2nd chance drawing. See Official Rules at crunchlabs.com/sweepstakes for full details on eligibility requirements, how to enter, free method of entry, prize claim procedure, prize description and limitations. Void where prohibited."
-                },
-                "defaultAudioLanguage": "en-US"
+                "publishTime": "2023-01-23T03:29:18Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "sSVG-YTnUTcnNgxv1rBxbq5R3Lg",
-            "id": "-tC4-5qq5To",
+            "kind": "youtube#searchResult",
+            "etag": "31KMak_4kEp5tihuKQfIU96V3H0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5NX9MfVv0o8"
+            },
             "snippet": {
-                "publishedAt": "2024-03-03T19:14:10Z",
-                "channelId": "UCVe_RrR9AMeY6Z8ixOv5gtw",
-                "title": "The Problem With Our House… and Shane’s Dream Comes True!",
-                "description": "Subscribe to Ordinary Adventures!! @OrdinaryAdventures \nSubscribe to Shane! @Shane2 \nSubscribe to Lizze! @LizzeGordonVlogs \n\nWatch my last vlog! https://youtu.be/AQ5TK4aPC04?si=ff8hjtK09OPP7bkU\n\nWatch Shane's new podcast! https://youtu.be/wM6wJBQR844?si=Ptjd_c0EmYUkSx1O\nWatch Shane's new Conspiracy video! https://youtu.be/8JdrKQgziLo?si=tXq-xm5PDp8xuAXZ\nFollow Shane! https://www.instagram.com/shanedawson/?hl=en \nShop Shanes's Merch!! https://www.shanedawsonmerch.com/collections/shop-all\n\nEditing for this video: \nMarissa Ann Patterson\nhttp://www.marissaannpatterson.com/\nCaden Finch\nhttps://www.cadenfinch.com/\n\nSubscribe to Morgan! @morgansvlogs \nFollow my mom! https://www.instagram.com/vickiadams26/?hl=en\nCheck out my Mom's amazon store! https://www.amazon.com/shop/influencer-e17144ae \nSubscribe to Sandy!  @SandeeYaw \nSubscribe to Chris! @ChrisBstation \n\nWatch my latest podcast! https://youtu.be/9LdzOAM0Sfk?si=ur6UBWbhFBcTnMvt\n\nFollow me on social media\nInstagram https://www.instagram.com/rylandadams/\ntwitter https://twitter.com/Ryland_Adams \n\nHope you have a great day!",
+                "publishedAt": "2024-03-03T14:57:17Z",
+                "channelId": "UCjqTRRHB5PoaYzd4IURYjqw",
+                "title": "CHALLENGING SURF w/ THE BEST SURFERS IN THE WORLD",
+                "description": "Today was challenging at Supertubos but with surfers such as Italo Ferreira, Griffin Colapinto, Conor Oleary, and many others out, ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/-tC4-5qq5To/default.jpg",
+                        "url": "https://i.ytimg.com/vi/5NX9MfVv0o8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/-tC4-5qq5To/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5NX9MfVv0o8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/-tC4-5qq5To/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5NX9MfVv0o8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/-tC4-5qq5To/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "Ryland vlogs",
-                "tags": [
-                    "Ryland Adams",
-                    "Shane Dawson",
-                    "Ryland Vlogs",
-                    "ordinary adventures",
-                    "Universal Studios",
-                    "Hollywood",
-                    "Comedy",
-                    "Taste Test",
-                    "Haul"
-                ],
-                "categoryId": "22",
+                "channelTitle": "Peyton Willard",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "The Problem With Our House… and Shane’s Dream Comes True!",
-                    "description": "Subscribe to Ordinary Adventures!! @OrdinaryAdventures \nSubscribe to Shane! @Shane2 \nSubscribe to Lizze! @LizzeGordonVlogs \n\nWatch my last vlog! https://youtu.be/AQ5TK4aPC04?si=ff8hjtK09OPP7bkU\n\nWatch Shane's new podcast! https://youtu.be/wM6wJBQR844?si=Ptjd_c0EmYUkSx1O\nWatch Shane's new Conspiracy video! https://youtu.be/8JdrKQgziLo?si=tXq-xm5PDp8xuAXZ\nFollow Shane! https://www.instagram.com/shanedawson/?hl=en \nShop Shanes's Merch!! https://www.shanedawsonmerch.com/collections/shop-all\n\nEditing for this video: \nMarissa Ann Patterson\nhttp://www.marissaannpatterson.com/\nCaden Finch\nhttps://www.cadenfinch.com/\n\nSubscribe to Morgan! @morgansvlogs \nFollow my mom! https://www.instagram.com/vickiadams26/?hl=en\nCheck out my Mom's amazon store! https://www.amazon.com/shop/influencer-e17144ae \nSubscribe to Sandy!  @SandeeYaw \nSubscribe to Chris! @ChrisBstation \n\nWatch my latest podcast! https://youtu.be/9LdzOAM0Sfk?si=ur6UBWbhFBcTnMvt\n\nFollow me on social media\nInstagram https://www.instagram.com/rylandadams/\ntwitter https://twitter.com/Ryland_Adams \n\nHope you have a great day!"
-                }
+                "publishTime": "2024-03-03T14:57:17Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "fty7VeXE4X34ccaVRtnb4Mq9A30",
-            "id": "Dcp02c9LLEw",
+            "kind": "youtube#searchResult",
+            "etag": "CfscGbqjyJ6lsB4-Gn9_DkN3RgQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-_NjKjxBOVs"
+            },
             "snippet": {
-                "publishedAt": "2024-03-02T15:00:11Z",
-                "channelId": "UCnmGIkw-KdI0W5siakKPKog",
-                "title": "I Stayed in “OMG!” Airbnbs",
-                "description": "OMG!\nsign up to get notified when JOYRIDE is back in stock: https://www.joyridesweets.com",
+                "publishedAt": "2024-02-24T23:10:58Z",
+                "channelId": "UCZhixj2QS9WzrluwSc9iCzA",
+                "title": "WEBCAST - Competition Day 1  - 2024 ISA World Surfing Games",
+                "description": "ISASURFING Subscribe to our Youtube channel to watch all the World Surfing Championships live, highlights, Interviews and ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Dcp02c9LLEw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/-_NjKjxBOVs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Dcp02c9LLEw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-_NjKjxBOVs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Dcp02c9LLEw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-_NjKjxBOVs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Dcp02c9LLEw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Dcp02c9LLEw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Ryan Trahan",
-                "tags": [
-                    "Ryan",
-                    "Trahan",
-                    "OMG!",
-                    "Airbnb",
-                    "I stayed in",
-                    "overnight",
-                    "I survived",
-                    "hotel"
-                ],
-                "categoryId": "24",
+                "channelTitle": "ISAsurfing",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "I Stayed in “OMG!” Airbnbs",
-                    "description": "OMG!\nsign up to get notified when JOYRIDE is back in stock: https://www.joyridesweets.com"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-02-24T23:10:58Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "-e1-3zcKIYNvO-4JMihs5ayWA6A",
-            "id": "p9Jjk9jH428",
+            "kind": "youtube#searchResult",
+            "etag": "qbx3XzgNDgzjcm_e2uEK3gS9H3M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bImk2wEVVCc"
+            },
             "snippet": {
-                "publishedAt": "2024-03-03T21:00:30Z",
-                "channelId": "UCzIyoPv6j1MAZpDHKLGP_eA",
-                "title": "Morgan Wallen - Graveyard Whistling (Abbey Road Sessions)",
-                "description": "Morgan Wallen at Abbey Road Studios covering “Graveyard Whistling” by Nothing But Thieves. \n\nStay connected for exclusive updates:\n▸Mailing List: https://bit.ly/2FRP7LK\n▸Website: https://morganwallen.com/\n\n▸ Shop Merch: https://morganwallen.lnk.to/shop\n\nFollow Morgan:\n▸Instagram: https://instagram.com/morganwallen/\n▸Twitter: https://twitter.com/morganwallen/\n▸TikTok: https://www.tiktok.com/@morganwallen\n▸Facebook: https://facebook.com/morgancwallen\n\nLyrics:\nAll that afterlife\nI don't hold with it\nAll your gods are false\nJust get used to it\nLet's go out tonight\nKill some stubborn myths\nSet those ghosts alight, get into it\n\nNo one's getting younger\nWould you like a souvenir?\nLet it take you under\nFeel your worries disappear\n\n'Cause if you don't believe, it can't hurt you\nAnd when you let it leave, it can't hurt you\n'Cause if you don't believe, then you know\nThen you know it can never do you harm\n'Cause if you don't believe, it can't hurt you\n\nOkay, I admit\nI'm not innocent\nI did everything and I would again\nI'm not listeningI've heard everything\nGraveyard whistling\nI'm into it\n\nNo one's getting younger\nWould you like a souvenir?\nLet it take you under\nFeel your worries disappear\n\n'Cause if you don't believe, it can't hurt you\nAnd when you let it leave, it can't hurt you\n'Cause if you don't believe, then you know\nThen you know it can never do you harm\n'Cause if you don't believe, it can't hurt you\n\nI got a picture and a passport and a number\nGive me access to the cloud I'm living under\nWhen I go there will I find a sense of wonder?\nOpen up the gates\n\n'Cause if you don't believe, it can't hurt you\nAnd when you let it leave, it can't hurt you\n'Cause if you don't believe, then you know\nThen you know it can never do you harm\n'Cause if you don't believe, it can't hurt you\n\n#MorganWallen #GraveyardWhistling #NothingButThieves #AbbeyRoadSessions",
+                "publishedAt": "2023-08-30T23:00:07Z",
+                "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+                "title": "🔴(ASMR) Teahupo&#39;o: The Ultimate Surfing Experience - August 2023",
+                "description": "Welcome to Waves of the World We are not your typical surfing channel. Our dedicated filmers from around the world produce the ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/p9Jjk9jH428/default.jpg",
+                        "url": "https://i.ytimg.com/vi/bImk2wEVVCc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/p9Jjk9jH428/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bImk2wEVVCc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/p9Jjk9jH428/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bImk2wEVVCc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/p9Jjk9jH428/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/p9Jjk9jH428/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "Morgan Wallen",
-                "tags": [
-                    "Morgan Wallen",
-                    "Graveyard Whistling",
-                    "Nothing But Theives",
-                    "Abbey Road Sessions"
-                ],
-                "categoryId": "10",
+                "channelTitle": "Waves of the World",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Morgan Wallen - Graveyard Whistling (Abbey Road Sessions)",
-                    "description": "Morgan Wallen at Abbey Road Studios covering “Graveyard Whistling” by Nothing But Thieves. \n\nStay connected for exclusive updates:\n▸Mailing List: https://bit.ly/2FRP7LK\n▸Website: https://morganwallen.com/\n\n▸ Shop Merch: https://morganwallen.lnk.to/shop\n\nFollow Morgan:\n▸Instagram: https://instagram.com/morganwallen/\n▸Twitter: https://twitter.com/morganwallen/\n▸TikTok: https://www.tiktok.com/@morganwallen\n▸Facebook: https://facebook.com/morgancwallen\n\nLyrics:\nAll that afterlife\nI don't hold with it\nAll your gods are false\nJust get used to it\nLet's go out tonight\nKill some stubborn myths\nSet those ghosts alight, get into it\n\nNo one's getting younger\nWould you like a souvenir?\nLet it take you under\nFeel your worries disappear\n\n'Cause if you don't believe, it can't hurt you\nAnd when you let it leave, it can't hurt you\n'Cause if you don't believe, then you know\nThen you know it can never do you harm\n'Cause if you don't believe, it can't hurt you\n\nOkay, I admit\nI'm not innocent\nI did everything and I would again\nI'm not listeningI've heard everything\nGraveyard whistling\nI'm into it\n\nNo one's getting younger\nWould you like a souvenir?\nLet it take you under\nFeel your worries disappear\n\n'Cause if you don't believe, it can't hurt you\nAnd when you let it leave, it can't hurt you\n'Cause if you don't believe, then you know\nThen you know it can never do you harm\n'Cause if you don't believe, it can't hurt you\n\nI got a picture and a passport and a number\nGive me access to the cloud I'm living under\nWhen I go there will I find a sense of wonder?\nOpen up the gates\n\n'Cause if you don't believe, it can't hurt you\nAnd when you let it leave, it can't hurt you\n'Cause if you don't believe, then you know\nThen you know it can never do you harm\n'Cause if you don't believe, it can't hurt you\n\n#MorganWallen #GraveyardWhistling #NothingButThieves #AbbeyRoadSessions"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2023-08-30T23:00:07Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "iWA1QAkJm-aacZ-D5KU0y5Sq6mw",
-            "id": "3f8_qwrY9l0",
+            "kind": "youtube#searchResult",
+            "etag": "OZhcWWIEGS7g5kFijxwwpMdLMdE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ln44aiPlT4o"
+            },
             "snippet": {
-                "publishedAt": "2024-03-03T20:20:00Z",
-                "channelId": "UCBmEi75U56KU6ZphFbXiF3g",
-                "title": "ASMR shivers down your back while you sleep",
-                "description": "X marks the spot, crack an egg on your head, writing on your face and more to help you sleep! I hope you enhiy, Eda \n\npsst...don't forget to follow me\n• http://instagram.com/edafoxx\n• https://www.tiktok.com/@_edafoxx\n• http://twitter.com/edafoxx\n• http://twitch.tv/edafoxx\n\n• contact 📧 info@edafoxx.com",
+                "publishedAt": "2024-02-29T18:24:36Z",
+                "channelId": "UCZhixj2QS9WzrluwSc9iCzA",
+                "title": "WEBCAST - Competition Day 6  - 2024 ISA World Surfing Games",
+                "description": "ISASURFING Subscribe to our Youtube channel to watch all the World Surfing Championships live, highlights, Interviews and ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/3f8_qwrY9l0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ln44aiPlT4o/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/3f8_qwrY9l0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ln44aiPlT4o/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/3f8_qwrY9l0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ln44aiPlT4o/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/3f8_qwrY9l0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/3f8_qwrY9l0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "edafoxx ASMR",
-                "tags": [
-                    "asmr",
-                    "shivers down your back while you sleep",
-                    "x marks the spot",
-                    "crack an egg on your head",
-                    "asmr shivers",
-                    "asmr tingles",
-                    "asmr tingles down your back",
-                    "tingle immunity",
-                    "edafoxx",
-                    "gibi asmr"
-                ],
-                "categoryId": "24",
+                "channelTitle": "ISAsurfing",
                 "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "ASMR shivers down your back while you sleep",
-                    "description": "X marks the spot, crack an egg on your head, writing on your face and more to help you sleep! I hope you enhiy, Eda \n\npsst...don't forget to follow me\n• http://instagram.com/edafoxx\n• https://www.tiktok.com/@_edafoxx\n• http://twitter.com/edafoxx\n• http://twitch.tv/edafoxx\n\n• contact 📧 info@edafoxx.com"
-                },
-                "defaultAudioLanguage": "en"
+                "publishTime": "2024-02-29T18:24:36Z"
             }
         },
         {
-            "kind": "youtube#video",
-            "etag": "fsnIyILaGuBfUWXdh4GpEA_iVdA",
-            "id": "sL9ectO13gA",
+            "kind": "youtube#searchResult",
+            "etag": "4G2zJWtqIM_vmR8SI_LuFdd_hFI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "a2NxgF2aSDw"
+            },
             "snippet": {
-                "publishedAt": "2024-03-03T12:30:06Z",
-                "channelId": "UCD3KREyo3IqCLBC-4khGgIw",
-                "title": "Truckee, CA dig out from epic blizzard of 2024 - Semi Recovery - Plows - Snow Train - 4k",
-                "description": "Tow trucks recovering dozens of tractor trailers buried in feet of snow. Some tractor trailers were up to the windows in snow. \n\n#plows #trains #trucking #trucks #snow #winter #weather\n\n\n\nLicensing via www.wxchasing.com",
+                "publishedAt": "2022-08-22T07:30:02Z",
+                "channelId": "UCOtHosOqPe9d6vLy-8LfHzQ",
+                "title": "Kelis Kaleopaa surfing at Sayulita during Mexi Log Fest 2022 | Highlight from the RAW DAYS",
+                "description": "Mexi Log Fest 2022 with stylish loggers around the world. Footage by Heiko Bothe. Full edit: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/sL9ectO13gA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/sL9ectO13gA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/sL9ectO13gA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/sL9ectO13gA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "WXChasing",
-                "tags": [
-                    "California",
-                    "Extreme",
-                    "Plowing",
-                    "Towing",
-                    "Recovery",
-                    "Trucking",
-                    "Truck",
-                    "Snow",
-                    "Blizzard",
-                    "#Winter",
-                    "#Storm",
-                    "#Railfans",
-                    "#plows",
-                    "#blower",
-                    "Truckee",
-                    "Donner",
-                    "Pass",
-                    "Sierra"
-                ],
-                "categoryId": "25",
+                "channelTitle": "NobodySurf : Surfing Videos",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en-US",
-                "localized": {
-                    "title": "Truckee, CA dig out from epic blizzard of 2024 - Semi Recovery - Plows - Snow Train - 4k",
-                    "description": "Tow trucks recovering dozens of tractor trailers buried in feet of snow. Some tractor trailers were up to the windows in snow. \n\n#plows #trains #trucking #trucks #snow #winter #weather\n\n\n\nLicensing via www.wxchasing.com"
-                },
-                "defaultAudioLanguage": "en-US"
+                "publishTime": "2022-08-22T07:30:02Z"
             }
         }
-    ],
-    "nextPageToken": "CBkQAA",
-    "pageInfo": {
-        "totalResults": 200,
-        "resultsPerPage": 25
-    }
+    ]
 }
