@@ -6,7 +6,7 @@ import axios from 'axios';
 export default function Videos() {
   const { keyword } = useParams();
   const { isLoading, error, data } = useQuery({
-    queryKey: ['repoData'],
+    queryKey: ['video'],
     queryFn: () =>
       axios
         .get('data/most_popuplar_videos.json')
@@ -16,18 +16,12 @@ export default function Videos() {
   if (isLoading) return 'Loading...'
   if (error) return 'error... ' + error.message
 
-  const rendering = () => {
-    const result = [];
-    for (let i = 0; i < data.length; i++) {
-      result.push(<p key={i}>{data[i].snippet.title}</p>);
-    }
-    return result;
-  };
-
   return (
     <div className='mt-5'>
       Videos🔥
-      {rendering()}
+      {data.map((a) => (
+        <p key={a.id}>{a.snippet.title}</p>
+      ))}
     </div>
   );
 }
