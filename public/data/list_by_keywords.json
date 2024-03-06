@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "hfFMrK5Tw2_8Y8IFgy77yenR6fQ",
+    "etag": "-GpBNX5UQlfQlT7fBCLwQR0eV7U",
     "nextPageToken": "CBkQAA",
     "regionCode": "US",
     "pageInfo": {
@@ -10,846 +10,846 @@
     "items": [
         {
             "kind": "youtube#searchResult",
-            "etag": "Ivkn6RaIuZjvY7OoZi28L6Jm4sM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "dTeFqIo7_XQ"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-04T19:00:13Z",
-                "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
-                "title": "I CAN’T BELIEVE KELLY SLATER ACTUALLY SHOWED UP!",
-                "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com/ - JAMIE O'BRIEN SURF SCHOOL - TURTLE BAY - NORTH SHORE ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/dTeFqIo7_XQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/dTeFqIo7_XQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/dTeFqIo7_XQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Jamie O'Brien",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-04T19:00:13Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "51uPnDZTuYuv3im3Ne-0TuhHixY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "cCGz3KZa_DI"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-04T21:18:28Z",
-                "channelId": "UC6uX6GF5q2JxLjMkyivM2Og",
-                "title": "CANT GET IN CANT GET OUT, STUCK IN THE NOTORIOUS BACKDOOR REVERSE CURRENT!",
-                "description": "YOUTUBE VIDS CONTINUE WEEKLY AS ALWAYS MY FRIENDS PLEASE SUBSCRIBE to help SUPPORT the channel!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/cCGz3KZa_DI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/cCGz3KZa_DI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/cCGz3KZa_DI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Nathan Florence",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-04T21:18:28Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "xnAA5YHIQ7s9xxYL3Flcfe83FWU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "IMv7X1muLAw"
-            },
-            "snippet": {
-                "publishedAt": "2024-02-26T21:37:52Z",
-                "channelId": "UC6uX6GF5q2JxLjMkyivM2Og",
-                "title": "NATHAN FLORENCE BEST RIDES 2022/2023 SURFING HIGHLIGHTS",
-                "description": "YOUTUBE VIDS CONTINUE WEEKLY AS ALWAYS MY FRIENDS PLEASE SUBSCRIBE to help SUPPORT the channel!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/IMv7X1muLAw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/IMv7X1muLAw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/IMv7X1muLAw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Nathan Florence",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-02-26T21:37:52Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "GActWoa3sb24z5BjE9IvCCvZGNY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ayKeU_0GEmY"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-03T20:55:15Z",
-                "channelId": "UCf5CA0OsvhhU-6AcSjT1oKQ",
-                "title": "Lowers is FIRING and there&#39;s BARRELS !!! - Kalani, Shea, Pelly Slater",
-                "description": "Lowers is firing or should we say cooking in February!! Rare winter time swell provides perfect peaks at the most notorious ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ayKeU_0GEmY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ayKeU_0GEmY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ayKeU_0GEmY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "BEEFS T.V.",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-03T20:55:15Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "oP9NPUJupvphdU4RnpdJPI69VCA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "lEsJ7A_lLU8"
-            },
-            "snippet": {
-                "publishedAt": "2024-02-07T19:40:33Z",
-                "channelId": "UC0GbKJaeEN9k5CG1NLbN6Ow",
-                "title": "This Is Why You Don’t Surf After It Rains 🤢 #gross",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/lEsJ7A_lLU8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/lEsJ7A_lLU8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/lEsJ7A_lLU8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "IdkSterling",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-02-07T19:40:33Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "pSIDbIBhD-0ArgWWL3D0oXm671w",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "eSWST13stO4"
-            },
-            "snippet": {
-                "publishedAt": "2022-03-27T15:00:32Z",
-                "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-                "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
-                "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Waves of the World",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-03-27T15:00:32Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ikbj4YBybim3QxNYQB78VEqAsPI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "638vncB_UKU"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-04T20:00:04Z",
-                "channelId": "UCEL_DcAbuwV1Pgux_eSm3HQ",
-                "title": "Currents // An Album Surf Short Film",
-                "description": "Album surf presents, “Currents” featuring Victor Bernardo. A Short Film By Matt Kleiner FPV Footage By Nicolas Gaillard Music By ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/638vncB_UKU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/638vncB_UKU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/638vncB_UKU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Album Surf",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-04T20:00:04Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "CEqGUw_JtqjewM7kANSF0xsG6yE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "-U6CM8IYaNc"
-            },
-            "snippet": {
-                "publishedAt": "2024-02-24T18:00:00Z",
-                "channelId": "UC-zD0q7ryv_OWPB_xEwJJIQ",
-                "title": "This part scares the crap out of me ￼!",
-                "description": "I don't think I can properly convey the complete and total amount of fear that tries to overtake me every time I start to paddle out ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-U6CM8IYaNc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-U6CM8IYaNc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-U6CM8IYaNc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Blind Surfer Pete Gustin",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-02-24T18:00:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "bZ2fe9vRJLC1qLYvfKq0gh-Jkac",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "55knAhRAIAc"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-02T20:07:58Z",
-                "channelId": "UCSoF7GdKjYzPeBX_Ppe3uAw",
-                "title": "Tandem excellence at Buffalo&#39;s Big Board Surfing Classic",
-                "description": "We take you over to Makaha for Buffalo's Big Board Surfing Classic. @kalanilg1 & @kauaisurfergirl bring in style, grace , and ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/55knAhRAIAc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/55knAhRAIAc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/55knAhRAIAc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "freesurfmag",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-02T20:07:58Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "7XSBeiEjlDLYcgGDpahjC_URSlI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "aYbgOD6zC6Q"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-04T14:13:32Z",
-                "channelId": "UCrL4HtiKWddH-9jkMXgudEA",
-                "title": "2024 ISA World Surfing Games: Finals Highlights",
-                "description": "Thousands of spectators lined the waterfront of Arecibo to watch Gabriel Medina and Sally Fitzgibbons claim victory in the 2024 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/aYbgOD6zC6Q/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/aYbgOD6zC6Q/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/aYbgOD6zC6Q/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SurferToday",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-04T14:13:32Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "laKlsbjSigvNrC318sAoL2hS1oQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ma67yOdMQfs"
-            },
-            "snippet": {
-                "publishedAt": "2021-01-23T17:00:15Z",
-                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-                "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
-                "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Red Bull Surfing",
-                "liveBroadcastContent": "none",
-                "publishTime": "2021-01-23T17:00:15Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "CVyFoN0owdETwtjzUiuRfXJu7Kw",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "hhN9HjnkND4"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-04T22:00:17Z",
-                "channelId": "UC0uzP4XsyVMGr7NwBUYv4mA",
-                "title": "day in the life surfing in FIJI 🌊",
-                "description": "A day in the life staying at my favorite place in the world, @namotuisland intro music: Good Feeling by Adam Emerson Where I get ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/hhN9HjnkND4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/hhN9HjnkND4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/hhN9HjnkND4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Eryn Krouse",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-04T22:00:17Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "mha77j54-hzeNl45dLbq6LEqUvk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "QB8GMebrFXg"
-            },
-            "snippet": {
-                "publishedAt": "2023-03-04T18:00:11Z",
-                "channelId": "UCJBWZDkunrjWh50Etxdys2g",
-                "title": "Big wave surfers in Southern California #shorts",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/QB8GMebrFXg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/QB8GMebrFXg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/QB8GMebrFXg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SoCal Surfer",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-03-04T18:00:11Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "jRzXduoQwqyQgd1lCCQ7kFJmhHw",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "b_98DPL9Oqc"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-02T19:43:59Z",
-                "channelId": "UCZhixj2QS9WzrluwSc9iCzA",
-                "title": "WEBCAST - Competition Day 8  - 2024 ISA World Surfing Games",
-                "description": "ISASURFING Subscribe to our Youtube channel to watch all the World Surfing Championships live, highlights, Interviews and ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/b_98DPL9Oqc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/b_98DPL9Oqc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/b_98DPL9Oqc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "ISAsurfing",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-02T19:43:59Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "BtA2MGs799w4fpUbTxGpaa9D-Z4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "W6dytFPLQxU"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-05T03:11:42Z",
-                "channelId": "UCBnLE14tUHTDyDc8Xij9rAg",
-                "title": "Surfer rescued from Pipeline thanks first responders who saved him",
-                "description": "It's been nearly a year since extended hours went into effect for O'ahu's North Shore lifeguards and for New York transplant Austin ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/W6dytFPLQxU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/W6dytFPLQxU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/W6dytFPLQxU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Hawaii News Now",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-05T03:11:42Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "GXX16HUoCxFLIsAbFOS1mTKHvow",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "xtHZKToMvus"
-            },
-            "snippet": {
-                "publishedAt": "2022-11-02T17:46:49Z",
-                "channelId": "UCTYHNSWYy4jCSCj1Q1Fq0ew",
-                "title": "Interlusion | A Billabong Surf Film Shot in the Mentawai Islands",
-                "description": "Welcome to the Interlusion. What happens when the best surf trip of former world champ Joel Parkinson's life happens years after ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/xtHZKToMvus/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/xtHZKToMvus/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/xtHZKToMvus/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Billabong",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-11-02T17:46:49Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "M8Or9WjEyFrGfBow5IuaIOz801U",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "JnS7floV874"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-01T19:46:22Z",
-                "channelId": "UCZhixj2QS9WzrluwSc9iCzA",
-                "title": "WEBCAST - Competition Day 7  - 2024 ISA World Surfing Games",
-                "description": "ISASURFING Subscribe to our Youtube channel to watch all the World Surfing Championships live, highlights, Interviews and ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/JnS7floV874/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/JnS7floV874/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/JnS7floV874/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "ISAsurfing",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-01T19:46:22Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "5IuQhzvbYaw2ypDCZu_tlHiyn8M",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "f2M_Hxg4GVw"
-            },
-            "snippet": {
-                "publishedAt": "2024-02-08T03:46:30Z",
-                "channelId": "UCxZkEXKbceGWcB60WDK_fQg",
-                "title": "living in a surf van 🚐 🏄‍♂️",
-                "description": "shorts #short #surf #surfshack #vanlife #santabarbara #california #surfer #surfing #vanlifers #vanlifediaries #rent #rentfree #tour ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/f2M_Hxg4GVw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/f2M_Hxg4GVw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/f2M_Hxg4GVw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Kyle Goes Off",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-02-08T03:46:30Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "UfhZR2akKJ-GUsGzFbRJXFueTeM",
+            "etag": "Om8EKu4skVCXZIG0xgRo8xuAD9E",
             "id": {
                 "kind": "youtube#channel",
-                "channelId": "UCKo-NbWOxnxBnU41b-AoKeA"
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ"
             },
             "snippet": {
-                "publishedAt": "2005-11-02T06:29:47Z",
-                "channelId": "UCKo-NbWOxnxBnU41b-AoKeA",
-                "title": "SURFER",
-                "description": "We founded SURFER Magazine with a mission: to bring our readers a slice of the entire surfing world with each issue. And for ...",
+                "publishedAt": "2012-12-17T03:20:38Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "BANGTANTV",
+                "description": "This is the official YouTube channel of BTS. 방탄소년단 공식 유튜브 채널 입니다.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AIdro_kPtu5K7EHLh0-_dHbWWMcNn7XZ-bAohcYIi6JuEc0=s88-c-k-c0xffffffff-no-rj-mo"
+                        "url": "https://yt3.ggpht.com/zL7KDS7WEHVbgpo6dM91hL5e91etHiuq2umW32iSePrhE5411SPsEdpAEcf5m5mYS-a_vpl7Ww=s88-c-k-c0xffffffff-no-rj-mo"
                     },
                     "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AIdro_kPtu5K7EHLh0-_dHbWWMcNn7XZ-bAohcYIi6JuEc0=s240-c-k-c0xffffffff-no-rj-mo"
+                        "url": "https://yt3.ggpht.com/zL7KDS7WEHVbgpo6dM91hL5e91etHiuq2umW32iSePrhE5411SPsEdpAEcf5m5mYS-a_vpl7Ww=s240-c-k-c0xffffffff-no-rj-mo"
                     },
                     "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AIdro_kPtu5K7EHLh0-_dHbWWMcNn7XZ-bAohcYIi6JuEc0=s800-c-k-c0xffffffff-no-rj-mo"
+                        "url": "https://yt3.ggpht.com/zL7KDS7WEHVbgpo6dM91hL5e91etHiuq2umW32iSePrhE5411SPsEdpAEcf5m5mYS-a_vpl7Ww=s800-c-k-c0xffffffff-no-rj-mo"
                     }
                 },
-                "channelTitle": "SURFER",
-                "liveBroadcastContent": "upcoming",
-                "publishTime": "2005-11-02T06:29:47Z"
+                "channelTitle": "BANGTANTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-12-17T03:20:38Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ivPIdRyE22ptaNPDMndWwMsF84U",
+            "etag": "Q4DZQPs5cRUaxjV2UoM6FHeCFTQ",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "bJpa_60UlNE"
+                "videoId": "gdZLi9oWNZg"
             },
             "snippet": {
-                "publishedAt": "2023-01-23T03:29:18Z",
-                "channelId": "UC4i3-yfVazfuqwoz71T79Sw",
-                "title": "The 2023 Eddie Aikau Big Wave Invitational at Waimea Bay",
-                "description": "World's most iconic big-wave event returns to Waimea Bay. WHAT ARE WE WATCHING? The word “unique” is thrown around a ...",
+                "publishedAt": "2020-08-21T03:58:10Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;Dynamite&#39; Official MV",
+                "description": "BTS (방탄소년단) 'Dynamite' Official MV Credits: Director: Yong Seok Choi (Lumpens) Assistant Director: Jihye Yoon (Lumpens) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/bJpa_60UlNE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/bJpa_60UlNE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/bJpa_60UlNE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Surfline",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-01-23T03:29:18Z"
+                "publishTime": "2020-08-21T03:58:10Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "31KMak_4kEp5tihuKQfIU96V3H0",
+            "etag": "DUA3j5e9NU93Sueq9uxochLU93o",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "5NX9MfVv0o8"
+                "videoId": "XsX3ATc3FbA"
             },
             "snippet": {
-                "publishedAt": "2024-03-03T14:57:17Z",
-                "channelId": "UCjqTRRHB5PoaYzd4IURYjqw",
-                "title": "CHALLENGING SURF w/ THE BEST SURFERS IN THE WORLD",
-                "description": "Today was challenging at Supertubos but with surfers such as Italo Ferreira, Griffin Colapinto, Conor Oleary, and many others out, ...",
+                "publishedAt": "2019-04-12T09:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)&#39; Official MV",
+                "description": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)' Official MV Credits: Director : YongSeok Choi (Lumpens) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/5NX9MfVv0o8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/5NX9MfVv0o8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/5NX9MfVv0o8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Peyton Willard",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-03-03T14:57:17Z"
+                "publishTime": "2019-04-12T09:00:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "CfscGbqjyJ6lsB4-Gn9_DkN3RgQ",
+            "etag": "i_887ZUfO-GmTz_H3hvYl6htHqc",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "-_NjKjxBOVs"
+                "videoId": "WMweEpGlu_U"
             },
             "snippet": {
-                "publishedAt": "2024-02-24T23:10:58Z",
-                "channelId": "UCZhixj2QS9WzrluwSc9iCzA",
-                "title": "WEBCAST - Competition Day 1  - 2024 ISA World Surfing Games",
-                "description": "ISASURFING Subscribe to our Youtube channel to watch all the World Surfing Championships live, highlights, Interviews and ...",
+                "publishedAt": "2021-05-21T03:46:13Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;Butter&#39; Official MV",
+                "description": "BTS (방탄소년단) 'Butter' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: Jihye Yoon (Lumpens) 2nd AD: Ran ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/-_NjKjxBOVs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/WMweEpGlu_U/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/-_NjKjxBOVs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WMweEpGlu_U/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/-_NjKjxBOVs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "ISAsurfing",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-02-24T23:10:58Z"
+                "publishTime": "2021-05-21T03:46:13Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "qbx3XzgNDgzjcm_e2uEK3gS9H3M",
+            "etag": "-FypQUN-zh5xxLEwwRc5P4utHTo",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "bImk2wEVVCc"
+                "videoId": "kTlv5_Bs8aw"
             },
             "snippet": {
-                "publishedAt": "2023-08-30T23:00:07Z",
-                "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-                "title": "🔴(ASMR) Teahupo&#39;o: The Ultimate Surfing Experience - August 2023",
-                "description": "Welcome to Waves of the World We are not your typical surfing channel. Our dedicated filmers from around the world produce the ...",
+                "publishedAt": "2017-11-24T09:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;MIC Drop (Steve Aoki Remix)&#39; Official MV",
+                "description": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV Credits: Music Video by GDW, Directed by Woogie Kim Producer: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/bImk2wEVVCc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/bImk2wEVVCc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/bImk2wEVVCc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Waves of the World",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-08-30T23:00:07Z"
+                "publishTime": "2017-11-24T09:00:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "OZhcWWIEGS7g5kFijxwwpMdLMdE",
+            "etag": "IB08hWpLFqYgir-9nZmOZ7Wy9vw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "ln44aiPlT4o"
+                "videoId": "KNexS61fjus"
             },
             "snippet": {
-                "publishedAt": "2024-02-29T18:24:36Z",
-                "channelId": "UCZhixj2QS9WzrluwSc9iCzA",
-                "title": "WEBCAST - Competition Day 6  - 2024 ISA World Surfing Games",
-                "description": "ISASURFING Subscribe to our Youtube channel to watch all the World Surfing Championships live, highlights, Interviews and ...",
+                "publishedAt": "2024-03-05T14:58:08Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "LE SSERAFIM (르세라핌) &#39;Smart&#39; OFFICIAL MV",
+                "description": "Creative Director : NU KIM Visual Creative Coordinating : Yujoo Kim Style Directing : Yoon Cho, Soo Lee Brand Experience ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ln44aiPlT4o/default.jpg",
+                        "url": "https://i.ytimg.com/vi/KNexS61fjus/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ln44aiPlT4o/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KNexS61fjus/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ln44aiPlT4o/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KNexS61fjus/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "ISAsurfing",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-02-29T18:24:36Z"
+                "publishTime": "2024-03-05T14:58:08Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "4G2zJWtqIM_vmR8SI_LuFdd_hFI",
+            "etag": "5AoFb5JCJaBCtD82LuIThzCD8wI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "a2NxgF2aSDw"
+                "videoId": "MBdVXkSdhwU"
             },
             "snippet": {
-                "publishedAt": "2022-08-22T07:30:02Z",
-                "channelId": "UCOtHosOqPe9d6vLy-8LfHzQ",
-                "title": "Kelis Kaleopaa surfing at Sayulita during Mexi Log Fest 2022 | Highlight from the RAW DAYS",
-                "description": "Mexi Log Fest 2022 with stylish loggers around the world. Footage by Heiko Bothe. Full edit: ...",
+                "publishedAt": "2017-09-18T09:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;DNA&#39; Official MV",
+                "description": "BTS (방탄소년단) 'DNA' Official MV Credits: Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee (Lumpens) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "NobodySurf : Surfing Videos",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-08-22T07:30:02Z"
+                "publishTime": "2017-09-18T09:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pNEUb-yaKPObyknzUQBgZ1U8R34",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0lapF4DQPKQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-04T15:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;Black Swan&#39; Official MV",
+                "description": "BTS (방탄소년단) 'Black Swan' Official MV Credits: Director : YongSeok Choi (Lumpens) Co-Director : Guzza (Lumpens) Assistant ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-04T15:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LzyOeSezWmy0zJ1EUMUkYMHRTh8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hmE9f-TEutc"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-09T15:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;피 땀 눈물 (Blood Sweat &amp; Tears)&#39; Official MV",
+                "description": "BTS (방탄소년단) '피 땀 눈물 (Blood Sweat & Tears)' Official MV Music video credits: Director: YongSeok Choi (Lumpens) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hmE9f-TEutc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hmE9f-TEutc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hmE9f-TEutc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-10-09T15:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HFrd2Rz0Ds4wPM9SpWIpQBKoPBk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7C2z4GqqS5E"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-18T09:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;FAKE LOVE&#39; Official MV",
+                "description": "BTS (방탄소년단) 'FAKE LOVE' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee, Guzza, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-05-18T09:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "A0ITUaFXivRbYxnSFLxjyn69qnE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DbXMjAYSa68"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-30T10:00:01Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "[CHOREOGRAPHY] BTS (방탄소년단) &#39;Butter&#39; Special Performance Video",
+                "description": "Artist: RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook Production Artist Contents Studio (HYBE 360) Director: Jang Jeong In Assistant ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DbXMjAYSa68/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DbXMjAYSa68/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DbXMjAYSa68/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-30T10:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BMQ3DHEwdMN_TE6bXBlEOeV3hAA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GZjt_sA2eso"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-15T13:00:03Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;Save ME&#39; Official MV",
+                "description": "BTS (방탄소년단) 'Save ME' Official MV.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GZjt_sA2eso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GZjt_sA2eso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GZjt_sA2eso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-05-15T13:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4VPhRqWm-u7uRg0cqYSCq4c1X6o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rBG5L7UsUxA"
+            },
+            "snippet": {
+                "publishedAt": "2013-06-12T02:59:57Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;No More Dream&#39; Official MV",
+                "description": "방탄소년단 데뷔 싱글 -2 COOL 4 SKOOL- 6월 12일 발매 BTS Debut single -2 COOL 4 SKOOL- will be released on 12.June Official ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rBG5L7UsUxA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rBG5L7UsUxA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rBG5L7UsUxA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-06-12T02:59:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3Zqkw1yqwzpmhR01yLqOLAyKDmo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HbkBVxU5K5A"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-23T01:00:03Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "BTS (방탄소년단) &#39;Butter&#39; @ The 64th GRAMMY Awards",
+                "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-23T01:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qcpqia7jlbBQ0VxNl31MUiFszJQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DTcKkcyS410"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-06T15:00:00Z",
+                "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+                "title": "[MV] BTS(방탄소년단) _ Just One Day(하루만)",
+                "description": "[MV] BTS(방탄소년단) _ Just One Day(하루만) LOEN MUSIC's New Brand Name, 1theK! 로엔뮤직의 새이름 1theK! *English ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DTcKkcyS410/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DTcKkcyS410/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DTcKkcyS410/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "1theK (원더케이)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-04-06T15:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FSkuHwPdYu3Tc1biFisTtcunDOw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XtT0RiON5Q4"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-20T21:24:01Z",
+                "channelId": "UCGB939A_ph7OEQ9CnqNnyPg",
+                "title": "BTS (방탄소년단) - PLAYLIST 2016-2023 (MOST POPULAR SONGS)",
+                "description": "jimin #theastronaut #jungkook #bts #btsarmy #rmbts #seokjin #bangtan #jimin #jungkook #taehyung #suga #jhope #playlistbts ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XtT0RiON5Q4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XtT0RiON5Q4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XtT0RiON5Q4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gigi Cheung",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-20T21:24:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DX2MDG-9vbqlgQDoykqNpz4GK58",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xEeFrLSkMm8"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-12T15:00:03Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;봄날 (Spring Day)&#39; Official MV",
+                "description": "BTS (방탄소년단) '봄날 (Spring Day)' Official MV Music video credits: Director : YongSeok Choi (Lumpens) Assistant Directors ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xEeFrLSkMm8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xEeFrLSkMm8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xEeFrLSkMm8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-02-12T15:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-2xiq7992UdwFgESH6AJZq-Dca8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "owjVpYCmwcg"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-13T09:13:02Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "BTS (방탄소년단) &#39;Take Two&#39; Live Clip #2023BTSFESTA",
+                "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/owjVpYCmwcg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/owjVpYCmwcg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/owjVpYCmwcg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-13T09:13:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E5JXdF7hFUKn-sCoFs8-CxdKktQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9DwzBICPhdM"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-19T15:31:32Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;Not Today&#39; Official MV",
+                "description": "BTS (방탄소년단) 'Not Today' Official MV Music video credits: Music Video by GDW Choreography & performance direction: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9DwzBICPhdM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9DwzBICPhdM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9DwzBICPhdM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-02-19T15:31:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bZi7pSgdrf-50anC77yq0xnrnCc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "m8MfJg68oCs"
+            },
+            "snippet": {
+                "publishedAt": "2014-02-11T13:00:01Z",
+                "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+                "title": "[MV] BTS(방탄소년단) _ Boy In Luv(상남자)",
+                "description": "[MV] BTS(방탄소년단) _ Boy In Luv(상남자) LOEN MUSIC changes the name to '1theK[wʌnðəkeɪ]' to be a global Kpop hub!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m8MfJg68oCs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m8MfJg68oCs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m8MfJg68oCs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "1theK (원더케이)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-02-11T13:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EWmpSfI1KXuPfaoqM-GDYYte31w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c4V0FNZfEv0"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-26T10:30:03Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "BTS (방탄소년단) &#39;Dynamite&#39; @ Good Morning America",
+                "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c4V0FNZfEv0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c4V0FNZfEv0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c4V0FNZfEv0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-26T10:30:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4wC-hi-DQOM-2I3gyilCK1Ly5jA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e81ad5MpfQ0"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-22T10:00:06Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "BTS (방탄소년단) &#39;Dynamite&#39; @ America&#39;s Got Talent 2020",
+                "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e81ad5MpfQ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e81ad5MpfQ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e81ad5MpfQ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-22T10:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y66LCKEunS1y5V5c4VAEjSTsFJY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TEl6KgcfSA8"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-28T09:58:35Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[BTS - Go Go] Comeback Stage | M COUNTDOWN 170928 EP.543",
+                "description": "KPOP Chart Show M COUNTDOWN | EP.543 - BTS - Go Go ▷Watch more video clips: http://bit.ly/MCOUNTDOWN-KPOP2017 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-09-28T09:58:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QJo7jSECGGEfr-IRtV2C1Ll2U3M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CxnJf0tWu48"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-06T15:00:01Z",
+                "channelId": "UCl2aT0nRejTCQO_LHZAftBw",
+                "title": "BTS (防弾少年団) &#39;Airplane pt.2 -Japanese ver.-&#39; Official MV",
+                "description": "BTS、日本9thシングル11月7日発売! 韓国で2018年5月に発売された「LOVE YOURSELF 轉 'Tear'」では、韓国人アーティスト ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CxnJf0tWu48/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CxnJf0tWu48/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CxnJf0tWu48/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UNIVERSAL MUSIC JAPAN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-11-06T15:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dIU-VwFYO3RsImWad-cJmTbJSLo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BflFNMl_UWY"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-26T01:00:01Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;Dynamite&#39; Official MV (Choreography ver.)",
+                "description": "BTS 방탄소년단 'Dynamite' Official MV (Choreography ver.) Credits: Director: Yong Seok Choi (Lumpens) Assistant Director: Jihye ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BflFNMl_UWY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BflFNMl_UWY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BflFNMl_UWY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-26T01:00:01Z"
             }
         }
     ]
