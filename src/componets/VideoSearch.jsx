@@ -10,7 +10,7 @@ export default function VideoSearch() {
   
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (text == '') {
+    if (text === '') {
       return
     }
     navigate(`/videos/${text}`);
