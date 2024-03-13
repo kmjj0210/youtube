@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { FaYoutube } from "react-icons/fa";
 import { CiSearch } from "react-icons/ci";
@@ -6,42 +6,42 @@ import { CiSearch } from "react-icons/ci";
 export default function VideoSearch() {
   const navigate = useNavigate();
   const { keyword } = useParams();
-  const [text, setText] = useState('');
-  
+  const [text, setText] = useState("");
+
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (text === '') {
-      return
+    if (text === "") {
+      return;
     }
     navigate(`/videos/${text}`);
-  }
+  };
 
   useEffect(() => {
-    setText(keyword || '')
-  }, [keyword])
-  
+    setText(keyword || "");
+  }, [keyword]);
+
   return (
-    <header className='pt-5 pb-10 border-b border-gray-300'>
+    <header className='pt-5 pb-10'>
       <div className='flex items-center mx-auto w-full max-w-screen-xl'>
-        <Link to='/' className='flex items-center gap-2 font-bold text-2xl '>
+        <Link to='/' className='flex items-center gap-1 font-bold text-2xl '>
           <span className='logo'>
             <FaYoutube className='text-brand' />
           </span>
-          <span className='text-default'>YouTube</span>
+          <span className='text-default tracking-tighter'>YouTube</span>
         </Link>
         <form
-          className='flex mx-auto max-w-3xl w-full border border-gray-300 rounded-full overflow-hidden'
+          className='flex mx-auto max-w-3xl w-full border-b border-gray-300'
           onSubmit={handleSubmit}
         >
           <input
             type='text'
             id='searchId'
-            className='px-5 py-2.5 w-full outline-none'
+            className='px-5 py-2.5 w-full outline-none bg-transparent'
             value={text}
             onChange={(e) => setText(e.target.value)}
             placeholder='검색'
           />
-          <button className='px-5 py-2.5 text-2xl border-l border-gray-300 bg-gray-100'>
+          <button className='px-5 py-2.5 text-2xl text-gray-300'>
             <CiSearch />
           </button>
         </form>
@@ -49,4 +49,3 @@ export default function VideoSearch() {
     </header>
   );
 }
-
