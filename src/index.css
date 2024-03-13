@@ -9,8 +9,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  width: 100%;
-  @apply flex flex-col items-center;
+  height: 100vh;
+  @apply flex flex-col items-center w-full;
+  background:url('assets/background.png') no-repeat center center / cover;
 }
 
 #root {
@@ -20,4 +21,14 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@layer base {
+  @font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts/Roboto.woff2) format('woff2');
+  }
 }
