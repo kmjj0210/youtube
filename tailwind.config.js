@@ -4,8 +4,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        default: "#EEEEEE",
-        brand: "#FFC83D",
+        primary: "#F9C80E",
+        softly: {
+          100: "#FFFFFF",
+          200: "#FFFAF0",
+          300: "#C0C0C0",
+        },
       },
     },
   },

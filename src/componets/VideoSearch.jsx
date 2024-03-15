@@ -25,23 +25,23 @@ export default function VideoSearch() {
       <div className='flex items-center mx-auto w-full max-w-screen-xl'>
         <Link to='/' className='flex items-center gap-1 font-bold text-2xl '>
           <span className='logo'>
-            <FaYoutube className='text-brand' />
+            <FaYoutube className='text-primary' />
           </span>
-          <span className='text-default tracking-tighter'>YouTube</span>
+          <span className='text-softly-100 tracking-tighter'>YouTube</span>
         </Link>
         <form
-          className='flex mx-auto max-w-3xl w-full border-b border-gray-300'
+          className='flex mx-auto max-w-3xl w-full border-b border-softly-300'
           onSubmit={handleSubmit}
         >
           <input
             type='text'
             id='searchId'
-            className='px-5 py-2.5 w-full outline-none bg-transparent'
+            className='px-5 py-2.5 w-full outline-none bg-transparent bg-primary'
             value={text}
             onChange={(e) => setText(e.target.value)}
             placeholder='검색'
           />
-          <button className='px-5 py-2.5 text-2xl text-gray-300'>
+          <button className='px-5 py-2.5 text-2xl text-softly-300'>
             <CiSearch />
           </button>
         </form>
