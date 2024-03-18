@@ -1,14 +1,16 @@
 import React from 'react';
+import { formatDay } from "../util/date";
 
-export default function VideoCard({video}) {
+export default function VideoCard({ video }) {
+  const { thumbnails, title, channelTitle, publishedAt } = video.snippet;
   return (
-    <li className='basis-[30%]'>
-      <div className='rounded-xl overflow-hidden'>
-        <img src={`${video.snippet.thumbnails.high.url}`} alt='' />
-      </div>
-      <p className='mt-4 mb-1.5 font-bold'>{video.snippet.title}</p>
-      <p className='text-sm'>{video.snippet.channelTitle}</p>
-      <p className='text-sm'>{video.snippet.publishedAt}</p>
+    <li>
+      <a href='#'>
+        <img className='w-full' src={`${thumbnails.medium.url}`} alt={`${title}`} />
+      </a>
+      <p className='mt-4 mb-1.5 font-bold line-clamp-2'>{title}</p>
+      <p className='text-sm opacity-80'>{channelTitle}</p>
+      <p className='text-sm opacity-80'>{formatDay(publishedAt)}</p>
     </li>
   );
 }

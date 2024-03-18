@@ -16,13 +16,13 @@ export default function Videos() {
     queryFn: () => youtube.search(keyword)
   });
   return (
-    <div className='py-5'>
-      <p className='font-bold text-2xl'>
+    <div>
+      <p className='font-bold text-2xl mb-5'>
         Videos {keyword ? `🔎${keyword}` : "🔥"}
       </p>
-      {isLoading && "loading..."}
-      {error && "error..."}
-      <ul className='flex flex-wrap gap-x-4 gap-y-10 mt-5'>
+      {isLoading && <p>loading...</p>}
+      {error && <p>error...</p>}
+      <ul className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 2xl:grid-cols-5 gap-4'>
         {videos &&
           videos.map((video) => <VideoCard key={video.id} video={video} />)}
       </ul>
