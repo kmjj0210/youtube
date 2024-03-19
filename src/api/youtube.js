@@ -6,7 +6,7 @@ export default class Youtube {
   async search(keyword) {
     return keyword ? this.#privateSearch(keyword) : this.#privatePopular();
   }
-  
+
   async #privateSearch(keyword) {
     return this.apiClient
       .search({
@@ -23,7 +23,7 @@ export default class Youtube {
 
   async #privatePopular() {
     return this.apiClient
-      .videos({
+      .popular({
         params: {
           part: "snippet",
           chart: "mostPopular",
@@ -31,5 +31,16 @@ export default class Youtube {
         },
       })
       .then((res) => res.data.items);
+  }
+
+  async videoInfo(videoId) {
+    return this.apiClient
+      .video({
+        params: {
+          part: "snippet",
+          id: videoId,
+        },
+      })
+      .then((res) => res.data.items[0]);
   }
 }

@@ -11,9 +11,10 @@ export default function App() {
   return (
     <>
       <VideoSearch />
-      <YoutubeApiProvider >
+      <YoutubeApiProvider>
         <QueryClientProvider client={queryClient}>
-          <Outlet/>
+          <ReactQueryDevtools initialIsOpen={true} />
+          <Outlet />
         </QueryClientProvider>
       </YoutubeApiProvider>
     </>
