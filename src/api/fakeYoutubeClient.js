@@ -1,8 +1,8 @@
 import axios from "axios";
 
 export default class FakeYoutubeClient {
-  async search() {
-    return axios.get(`/data/search.json`);
+  async result() {
+    return axios.get(`/data/result.json`);
   }
 
   async popular() {
@@ -11,5 +11,9 @@ export default class FakeYoutubeClient {
 
   async video() {
     return axios.get(`/data/video.json`);
+  }
+
+  async channel() {
+    return axios.get(`/data/channel.json`);
   }
 }

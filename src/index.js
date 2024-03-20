@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { createBrowserRouter, RouterProvider, } from "react-router-dom";
 import NotFound from './pages/NotFound';
 import Videos from './pages/Videos';
-import VideosDatail from './pages/VideosDatail';
+import VideosDetail from './pages/VideosDetail';
 
 const router = createBrowserRouter([
   {
@@ -17,7 +17,7 @@ const router = createBrowserRouter([
       { index: true, element: <Videos /> },
       { path: 'videos', element: <Videos /> },
       { path: 'videos/:keyword', element: <Videos /> },
-      { path: 'videos/watch/:videoId', element: <VideosDatail /> }
+      { path: 'videos/watch/:videoId', element: <VideosDetail /> }
     ]
   },
 ]);

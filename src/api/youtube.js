@@ -7,9 +7,17 @@ export default class Youtube {
     return keyword ? this.#privateSearch(keyword) : this.#privatePopular();
   }
 
+  async view(videoId) {
+    return this.#privateVideo(videoId);
+  }
+
+  async channel(channelId) {
+    return this.#privateChannel(channelId);
+  }
+
   async #privateSearch(keyword) {
     return this.apiClient
-      .search({
+      .result({
         params: {
           part: "snippet",
           maxResults: 25,
@@ -26,14 +34,14 @@ export default class Youtube {
       .popular({
         params: {
           part: "snippet",
-          chart: "mostPopular",
           maxResults: 25,
+          chart: "mostPopular",
         },
       })
       .then((res) => res.data.items);
   }
 
-  async videoInfo(videoId) {
+  async #privateVideo(videoId) {
     return this.apiClient
       .video({
         params: {
@@ -42,5 +50,17 @@ export default class Youtube {
         },
       })
       .then((res) => res.data.items[0]);
+  }
+
+  async #privateChannel(channelId) {
+    return this.apiClient
+      .channel({
+        params: {
+          part: "snippet",
+          maxResults: 25,
+          id: channelId,
+        },
+      })
+      .then((res) => res.data.items);
   }
 }
